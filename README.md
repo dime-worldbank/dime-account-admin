@@ -13,3 +13,11 @@ Click the following links below to access insructions for how to request actions
 * [Request to be added to the DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin/blob/master/instructions/request-access-dime-org.md)
 * [Request to create a new repository (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/request-new-repo-dime-org.md)
 * [Request to add an external collaborator to a single repo (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/add-external-collaborator-dime-org.md)
+
+## DIME GitHub Training Slides
+
+Some of these slides are for trainings that are meant to be interactive and might therefore not be optimal for self learning. But we are still happy to share these slides and hope that you will find them useful. The source code for these slides can be found [here](https://github.com/worldbank/dime-github-trainings/tree/master/GitHub-trainings). 
+
+* [Intro to Git/GitHub - Observer](https://osf.io/a2htb/) - How to use GitHub to browse code and to provide feedback on code.
+* [Intro to Git/GitHub - Contributor](https://osf.io/2mz4j/) - How to use GitHub to collaborate on code.
+* [GitHub Team Maintainer Training](https://osf.io/arpyc/) - Intro to GitHub's Team feature that we use to allow the project teams to be able togrant and revoke access to the project teams' repositories.
