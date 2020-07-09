@@ -2,7 +2,7 @@
 
 Instructions for how to join: https://github.com/dime-worldbank
 
-This only applies to people with an active employment contract with DIME at the World Bank (although it includes anything from Staff, ETC, STC, to internship). If you work on a DIME project but do not have a contract with DIME, then ask your DIME contact to request that you are added as a exteranl collaboator.
+This only applies to people with an active employment contract with DIME at the World Bank (although it includes anything from Staff, ETC, STC, to internship). If you work on a DIME project but do not have a contract with DIME, then ask your DIME contact to request that you are added as a external collaboator.
 
 ### 1. Create a GitHub Account
 
@@ -10,7 +10,7 @@ You must first create a GitHub account. It is free and you can do it by followin
 
 ### 2. Send email to the DIME GitHub Team
 
-Copy the `World Bank GitHub.com MOU` below by copying it to an email and filling in your information in the end of the MOU. Send this email dimeanalytics@worldbank.org with the subject line "Request to Join DIME GitHub Group - [YOUR NAME]".
+Complete the **World Bank GitHub.com MOU** below by copying it to an email and filling in your information in the end of the MOU. Send this email to  `dimeanalytics@worldbank.org` with the subject line "Request to Join DIME GitHub Group - [YOUR NAME]".
 
 World Bank Group Staff GitHub.com Pilot MOU:
 
@@ -32,7 +32,7 @@ World Bank Group Staff GitHub.com Pilot MOU:
 
 ### 3. Wait for the for DIME GitHub Team to invite you
 
-When the DIME GitHub team have received your request and checked that it is in order they will add you to the group. You will then get a notification from GitHub.com to your email saying that you have been invited to the DIME GitHub group. You can also go to https://github.com/dime-worldbank and if you have a pending invitaiton, a blue box will appear at the top of the page where you can accpet the invitation.
+When the DIME GitHub team has received your request and checked that it is in order they will add you to the group. You will then get a notification from GitHub.com to your email saying that you have been invited to the DIME GitHub group. You can also go to https://github.com/dime-worldbank and if you have a pending invitaiton, a blue box will appear at the top of the page where you can accpet the invitation.
 
 ### 4. Make it public
 
