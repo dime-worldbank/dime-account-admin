@@ -13,6 +13,7 @@ Click the following links below to access insructions for how to request actions
 * [Request to be added to the DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin/blob/master/instructions/request-access-dime-org.md)
 * [Request to create a new repository (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/request-new-repo-dime-org.md)
 * [Request to add an external collaborator to a single repo (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/add-external-collaborator-dime-org.md)
+* [Requests related to the WB GitHub account (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/wb-github-account.md)
 
 ## DIME GitHub Training Slides
 
