@@ -29,7 +29,7 @@ World Bank Group Staff GitHub.com Pilot MOU:
 > 
 > Name:<br>
 > UPI:<br>
-> DIME unit: (for example: DIME1, DIME2 etc.)<br>
+> DIME unit: (answer one of DIME0, DIME1, DIME2, DIME3, DIME4)<br>
 > Github account name:<br>
 
 ### 3. Wait for the for DIME GitHub Team to invite you
