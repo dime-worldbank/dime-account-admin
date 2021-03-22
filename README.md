@@ -1,10 +1,6 @@
 # Welcome to DIME's GitHub Account
 
-If you are member of this Github account you find the full information [here](https://github.com/dime-worldbank/dime-account-admin-private). To become a member see below.
-
-## DIME - World Bank Group
-
-DIME (Development Impact Evaluations) is a department at the World Bank group. See more here: https://www.worldbank.org/en/research/dime
+DIME (Development Impact Evaluations) is a department at the World Bank group. See more here: https://www.worldbank.org/en/research/dime If you are member of this Github account you find the full information [here](https://github.com/dime-worldbank/dime-account-admin-private). To become a member see below.
 
 ## Actions for the DIME account 
 
@@ -18,7 +14,8 @@ Click the following links below to access insructions for how to request actions
 
 Click the link below for instructions related to the WB account:
 
-* [Requests related to the WB GitHub account (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/wb-github-account.md)
+* Use this [eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (WB Intranet) if you are on a WB contract and want to request to be added to the WB GitHub account
+* [All other requests related to the WB GitHub account (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/wb-github-account.md)
 
 ## DIME GitHub Training Slides
 
