@@ -2,7 +2,7 @@
 
 DIME (Development Impact Evaluations) is a department at the World Bank group. See more here: https://www.worldbank.org/en/research/dime If you are member of this Github account you find the full information [here](https://github.com/dime-worldbank/dime-account-admin-private). To become a member see below.
 
-## table of content
+## Table of Content
 
 * [Actions for the DIME account](#actions-for-the-dime-account)
 * [Actions for the WB account](#actions-for-the-wb-account)
