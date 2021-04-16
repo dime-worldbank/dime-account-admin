@@ -31,6 +31,7 @@ Eventually, DIME projects used almost half of the quotas of the WB account subsc
 so DIME ended up creating its own account (https://github.com/dime-worldbank).
 The default is that all private DIME repositories should be created at the DIME Account
 but it is up to the team where a public repository should be created.
+
 On one hand it is easier for teams to have both
 private and public repositories on the same account
 as managing user access is easier.
@@ -41,6 +42,7 @@ is to use a private repository on the DIME account before publishing results,
 and use a public repo on the WB account for replication packages
 after the research is published.
 But exactly how to do this is ultimately up to each team.
+
 We can make exceptions and create private repos on the WB account if,
 for example, the project is a collaboration with non-DIME WB teams.
 You may invite external collaborators to repos hosted on the DIME Account.
