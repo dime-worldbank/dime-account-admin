@@ -11,6 +11,9 @@ DIME (Development Impact Evaluations) is a department at the World Bank group. S
 
 ## Actions for the DIME account
 
+These actions only applies to repos with and URL starting with: https://github.com/dime-worldbank.
+See section below if this does not apply to your team's repo.
+
 Click the following links below to access instructions for how to request actions for the DIME GitHub account. You have to already be a member of the DIME GitHub account (and be logged in to GitHub.com) to access the links that say "(member access only)".
 
 * [Request to be added to the DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin/blob/master/instructions/request-access-dime-org.md)
@@ -18,6 +21,9 @@ Click the following links below to access instructions for how to request action
 * [Request to add an external collaborator to a single repo on DIME GitHub account (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/add-external-collaborator-dime-org.md) - (see instructions for WB GitHub account below)
 
 ## Actions for the WB account
+
+These actions only applies to repos with and URL starting with: https://github.com/worldbank
+See section above if this does not apply to your team's repo.
 
 Click the link below for instructions related to the WB account:
 
