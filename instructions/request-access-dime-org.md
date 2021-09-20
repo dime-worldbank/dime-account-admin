@@ -23,7 +23,7 @@ World Bank Group Staff GitHub.com Pilot MOU:
 > 1. I agree not to make public any repository without first consulting dimeanalytics@worldbank.org, and following any procedures then suggested.
 > 1. I agree that I will comply with all relevant copyright laws and will not post copyrighted material to which I do not have release to do so.
 > 1. I agree to maintain backups of any data I upload into a repository locally, and that these are updated at least once a month while the project is still active.
-> 1. I agree that upon my departure of World Bank Group employment that I will remove any associated worldbank.org email addresses associated with my account, and notify > dimeanalytics@worldbank.org of my departure.
+> 1. I agree that upon my departure of World Bank Group employment that I will remove any associated worldbank.org email addresses associated with my account, and notify dimeanalytics@worldbank.org of my departure.
 > 1. I agree that I will keep my password secure; I will not share the user account with others and will not delegate administrative capabilities to non-World Bank Group staff.
 > 1. I certify that I have read all the above and agree to the World Bank Group’s rules for accessing its GitHub.com repositories.
 > 
