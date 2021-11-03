@@ -2,7 +2,7 @@
 
 Instructions for how to join: https://github.com/dime-worldbank
 
-This only applies to people with an active employment contract with DIME at the World Bank (although it includes anything from Staff, ETC, STC, to internship). If you work on a DIME project but do not have a contract with DIME, then ask your DIME contact to request that you are added as a external collaboator. You also need a World Bank email to be able to be added to the DIME GitHub account. If you are not eligible for being added to the DIME GitHub account, you can still request access to individual repositories, see the [main README](https://github.com/dime-worldbank/dime-account-admin) of this repositories for more options.
+This only applies to people with an active employment contract with DIME at the World Bank (although it includes anything from Staff, ETC, STC, to internship). If you work on a DIME project but do not have a contract with DIME, then ask your DIME contact to request that you are added as a external collaborator. You also need a World Bank email to be able to be added to the DIME GitHub account. If you are not eligible for being added to the DIME GitHub account, you can still request access to individual repositories, see the [main README](https://github.com/dime-worldbank/dime-account-admin) of this repositories for more options.
 
 ### 1. Create a GitHub Account
 
