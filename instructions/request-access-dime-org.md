@@ -2,17 +2,37 @@
 
 Instructions for how to join: https://github.com/dime-worldbank
 
-This only applies to people with an active employment contract with DIME at the World Bank (although it includes anything from Staff, ETC, STC, to internship). If you work on a DIME project but do not have a contract with DIME, then ask your DIME contact to request that you are added as a external collaborator. You also need a World Bank email to be able to be added to the DIME GitHub account. If you are not eligible for being added to the DIME GitHub account, you can still request access to individual repositories, see the [main README](https://github.com/dime-worldbank/dime-account-admin) of this repositories for more options.
+This only applies to people with an active employment contract
+with DIME at the World Bank
+(although it includes anything from Staff, ETC, STC, to internship).
+If you work on a DIME project but do not have a contract with DIME,
+then ask your DIME contact to request that you are added as a external collaborator.
+You also need a World Bank email to be able to be added to the DIME GitHub account.
+If you are not eligible for being added to the DIME GitHub account,
+you can still request access to individual repositories,
+see the [main README](https://github.com/dime-worldbank/dime-account-admin)
+of this repositories for more options.
 
 ### 1. Create a GitHub Account
 
-You must first create a GitHub account. It is free and you can do it by following [these instructions and best practices](https://github.com/worldbank/dime-github-trainings/blob/master/GitHub-resources/DIME-GitHub-Guides/Creating-GitHub-account.md).
+You must first create a GitHub account.
+It is free and you can do it by following
+[these instructions and best practices](https://github.com/worldbank/dime-github-trainings/blob/master/GitHub-resources/DIME-GitHub-Guides/Creating-GitHub-account.md).
 
 ### 2. Send email to the DIME GitHub Team
 
-You must submit this MOU from your World Bank email, if you are still in the process of setting up your World Bank email you can not yet request access to the DIME Account. If you need access to the individual repositories in the meanwhile, ask your team to submit a request for you to be added as an external collaborator. See links on the [main README](https://github.com/dime-worldbank/dime-account-admin) of this repositories for instructions. 
+You must submit this MOU from your World Bank email.
+If you are still in the process of setting up your World Bank email,
+then you can not yet request access to the DIME Account.
+If you need access to the individual repositories in the meanwhile,
+ask your team to submit a request for you to be added as an external collaborator.
+See links on the [main README](https://github.com/dime-worldbank/dime-account-admin)
+of this repositories for instructions.
 
-Complete the **World Bank GitHub.com MOU** below by copying it to an email and filling in your information in the end of the MOU.   Send this email to  `dimeanalytics@worldbank.org` with the subject line "Request to Join DIME GitHub Group - [YOUR NAME]".
+Complete the **World Bank GitHub.com MOU** below by
+copying it to an email and filling in your information in the end of the MOU.
+Send this email to  `dimeanalytics@worldbank.org` with the subject line
+"Request to Join DIME GitHub Group - [YOUR NAME]".
 
 World Bank Group Staff GitHub.com Pilot MOU:
 
@@ -26,7 +46,7 @@ World Bank Group Staff GitHub.com Pilot MOU:
 > 1. I agree that upon my departure of World Bank Group employment that I will remove any associated worldbank.org email addresses associated with my account, and notify dimeanalytics@worldbank.org of my departure.
 > 1. I agree that I will keep my password secure; I will not share the user account with others and will not delegate administrative capabilities to non-World Bank Group staff.
 > 1. I certify that I have read all the above and agree to the World Bank Group’s rules for accessing its GitHub.com repositories.
-> 
+>
 > Name:<br>
 > UPI:<br>
 > Name of DIME TTL:<br>
@@ -35,8 +55,18 @@ World Bank Group Staff GitHub.com Pilot MOU:
 
 ### 3. Wait for the for DIME GitHub Team to invite you
 
-When the DIME GitHub team has received your request and checked that it is in order they will add you to the group. You will then get a notification from GitHub.com to your email saying that you have been invited to the DIME GitHub group. You can also go to https://github.com/dime-worldbank and if you have a pending invitaiton, a blue box will appear at the top of the page where you can accpet the invitation.
+When the we have received your request and checked that it is in order,
+we will add you to the DIME GitHub account.
+You will then get a notification from GitHub.com to your email
+saying that you have been invited to the DIME GitHub account.
+You can also go to https://github.com/dime-worldbank
+and if you have a pending invitation,
+a blue box will appear at the top of the page where you can accept the invitation.
+These instructions will also be sent to you by email.
 
 ### 4. Make it public
 
-Finally and optionally, if you want it to show on your profile page on GitHub that you are a member of the DIME GitHub Group, then go to https://github.com/orgs/dime-worldbank/people and search for your username, and make sure that Public is selected instead of Private.
+Finally and optionally, if you want it to show on your profile page on GitHub
+that you are a member of the DIME GitHub Group,
+then go to https://github.com/orgs/dime-worldbank/people and search for your username,
+and make sure that _Public_ is selected instead of _Private_.
