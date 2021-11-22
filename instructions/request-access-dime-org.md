@@ -8,10 +8,15 @@ with DIME at the World Bank
 If you work on a DIME project but do not have a contract with DIME,
 then ask your DIME contact to request that you are added as a external collaborator.
 You also need a World Bank email to be able to be added to the DIME GitHub account.
-If you are not eligible for being added to the DIME GitHub account,
+
+If you are not mapped to a DIME unit but
+still want to be added as a member to the DIME account,
+instead of an external collaborator to specific DIME repos,
+then see the section named _Adding non-DIME users as members_ below. If you are not eligible for being added to the DIME GitHub account,
 you can still request access to individual repositories,
 see the [main README](https://github.com/dime-worldbank/dime-account-admin)
 of this repositories for more options.
+
 
 ### 1. Create a GitHub Account
 
@@ -70,3 +75,19 @@ Finally and optionally, if you want it to show on your profile page on GitHub
 that you are a member of the DIME GitHub Group,
 then go to https://github.com/orgs/dime-worldbank/people and search for your username,
 and make sure that _Public_ is selected instead of _Private_.
+
+## Adding non-DIME users as members
+
+If you have a WB contract and UPI, then we can sometimes make an exception and
+add you as a member to the DIME account anyways.
+We only do this when, for example, you work on a lot of DIME repos,
+or that you are really a full DIME team member but just hired or mapped to a different unit.
+In either case, we need you to cc your DIME TTL/contact in the email where you request to be added,
+and we also need you to include a short explanation for why
+you want to be added as a member of the DIME account and not an external collaborator.
+
+We do not make this exception for someone who does not have a WB contract or UPI.
+Then the only way to be given access to a DIME repo
+is by having your DIME colleague request that you
+are added as an external collaborator to that repo.
+See the [main README](https://github.com/dime-worldbank/dime-account-admin).
