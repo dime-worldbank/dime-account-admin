@@ -26,7 +26,7 @@ It is free and you can do it by following
 
 ### 2. Send email to the DIME GitHub Team
 
-You must submit this MOU from your World Bank email.
+You must submit this terms and conditions from your World Bank email.
 If you are still in the process of setting up your World Bank email,
 then you can not yet request access to the DIME Account.
 If you need access to the individual repositories in the meanwhile,
@@ -34,12 +34,12 @@ ask your team to submit a request for you to be added as an external collaborato
 See links on the [main README](https://github.com/dime-worldbank/dime-account-admin)
 of this repositories for instructions.
 
-Complete the **World Bank GitHub.com MOU** below by
-copying it to an email and filling in your information in the end of the MOU.
+Complete the **World Bank GitHub.com terms and conditions** below by
+copying it to an email and filling in your information in the end of the terms and conditions.
 Send this email to  `dimeanalytics@worldbank.org` with the subject line
 "Request to Join DIME GitHub Group - [YOUR NAME]".
 
-World Bank Group Staff GitHub.com Pilot MOU:
+World Bank Group Staff GitHub.com Pilot terms and conditions:
 
 > 1. I am aware that I am requesting access to the DIME's GitHub.com group and any associated public and private repositories within that group.
 > 1. I am aware that GitHub.com is an open source platform and that potentially any data uploaded could become available to the public.
