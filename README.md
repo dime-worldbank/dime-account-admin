@@ -16,9 +16,9 @@ See section below if this does not apply to your team's repo.
 
 Click the following links below to access instructions for how to request actions for the DIME GitHub account. You have to already be a member of the DIME GitHub account (and be logged in to GitHub.com) to access the links that say "(member access only)".
 
-* [Request to be added to the DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin/blob/master/instructions/request-access-dime-org.md)
-* [Request to create a new repository on DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/request-new-repo-dime-org.md) - only member access (see below)
-* [Request to add an external collaborator to a single repo on DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/add-external-collaborator-dime-org.md) - only member access (see below)
+* [Request to be added to the DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin/blob/main/instructions/request-access-dime-org.md)
+* [Request to create a new repository on DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/request-new-repo-dime-org.md) - only member access (see below)
+* [Request to add an external collaborator to a single repo on DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/add-external-collaborator-dime-org.md) - only member access (see below)
 
 **(Only member access)** - Links with this note can only be accessed by users who are already members of the DIME GitHub account. 
 See instructions above if you are not a member and you are eligible to request to be added. 
@@ -36,7 +36,7 @@ See section above if this does not apply to your team's repo.
 Click the link below for instructions related to the WB account:
 
 * Use this [eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (WB Intranet) if you are on a WB contract and want to request to be added to the WB GitHub account
-* [All other requests related to the WB GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/wb-github-account.md)  - only member access (see below)
+* [All other requests related to the WB GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-github-account.md)  - only member access (see below)
 
 **(Only member access)** - Links with this note can only be accessed by users who are already members of the DIME GitHub account. 
 See instructions above if you are not a member and you are eligible to request to be added. 
@@ -74,7 +74,7 @@ non-DIME users that need active access to the repo.
 
 ## DIME GitHub Training Slides
 
-Some of these slides are for trainings that are meant to be interactive and might therefore not be optimal for self learning. But we are still happy to share these slides and hope that you will find them useful. The source code for these slides can be found [here](https://github.com/worldbank/dime-github-trainings/tree/master/GitHub-trainings).
+Some of these slides are for trainings that are meant to be interactive and might therefore not be optimal for self learning. But we are still happy to share these slides and hope that you will find them useful. The source code for these slides can be found [here](https://github.com/worldbank/dime-github-trainings/tree/main/GitHub-trainings).
 
 * [Intro to Git/GitHub - Observer](https://osf.io/a2htb/) - How to use GitHub to browse code and to provide feedback on code.
 * [Intro to Git/GitHub - Contributor](https://osf.io/2mz4j/) - How to use GitHub to collaborate on code.
