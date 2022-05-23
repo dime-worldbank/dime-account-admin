@@ -17,8 +17,16 @@ See section below if this does not apply to your team's repo.
 Click the following links below to access instructions for how to request actions for the DIME GitHub account. You have to already be a member of the DIME GitHub account (and be logged in to GitHub.com) to access the links that say "(member access only)".
 
 * [Request to be added to the DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin/blob/master/instructions/request-access-dime-org.md)
-* [Request to create a new repository on DIME GitHub account (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/request-new-repo-dime-org.md) - (see instructions for WB GitHub account below)
-* [Request to add an external collaborator to a single repo on DIME GitHub account (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/add-external-collaborator-dime-org.md) - (see instructions for WB GitHub account below)
+* [Request to create a new repository on DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/request-new-repo-dime-org.md) - only member access (see below)
+* [Request to add an external collaborator to a single repo on DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/add-external-collaborator-dime-org.md) - only member access (see below)
+
+**(Only member access)** - Links with this note can only be accessed by users who are already members of the DIME GitHub account. 
+See instructions above if you are not a member and you are eligible to request to be added. 
+Make sure you are logged in to GitHub.com before trying to access links with only member access. 
+If it says `Sign up`/`Sign in` in the header above you are not signed in in the browser you are currently using. 
+If you are not sure which account you are logged in to, 
+then see the menu that pops up when you click your profile picture furthest to the right in the header. 
+If nothing of this solves your access, you may reach out to dimeanalytics@worldbank.org.
 
 ## Actions for the WB account
 
@@ -28,7 +36,15 @@ See section above if this does not apply to your team's repo.
 Click the link below for instructions related to the WB account:
 
 * Use this [eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (WB Intranet) if you are on a WB contract and want to request to be added to the WB GitHub account
-* [All other requests related to the WB GitHub account (member access only)](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/wb-github-account.md)
+* [All other requests related to the WB GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/master/instructions/wb-github-account.md)  - only member access (see below)
+
+**(Only member access)** - Links with this note can only be accessed by users who are already members of the DIME GitHub account. 
+See instructions above if you are not a member and you are eligible to request to be added. 
+Make sure you are logged in to GitHub.com before trying to access links with only member access. 
+If it says `Sign up`/`Sign in` in the header above you are not signed in in the browser you are currently using. 
+If you are not sure which account you are logged in to, 
+then see the menu that pops up when you click your profile picture furthest to the right in the header. 
+If nothing of this solves your access, you may reach out to dimeanalytics@worldbank.org.
 
 ## Why does DIME use both a DIME account and a WB account?
 
