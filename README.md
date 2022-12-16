@@ -47,6 +47,8 @@ A project team is a set of people working on a project,
 and a GitHub team is a set of GitHub user accounts.
 They are sometimes similar but not always.
 
+#### Admin access are not given to project teams
+
 The default is that DIME Analytics does not
 give project team members admin access to the repos.
 Admin access gives access to features that can permanently delete content.
@@ -56,6 +58,8 @@ Another reason is that admin access gives access
 to features that can incur a cost.
 Since all costs incurred on the DIME account are charged to DIME Analytics,
 any such action should go though one on the account admins in DIME Analytics.
+
+#### GitHub teams solves repo access management without admin access
 
 The drawback, however, of not giving anyone in the project team
 admin access to the repo is that no one in the project team has access to
@@ -70,6 +74,8 @@ are made maintainers of the GitHub team,
 which allows to add and remove users from that team.
 This way the project team can give access to their repos to new members
 without having to ask the account admins in DIME Analytics each time.
+
+#### How to be use GitHub teams
 
 It is possible to have a 1-to-1 relation
 between project team, repo and GitHub team,
@@ -86,6 +92,9 @@ However, this has never caused any issues.
 On the contrary, it makes collaboration across projects easier,
 and it does not require coordination between maintainers of many small teams.
 
+#### How to be a team maintainer
+
+Users are added and removed from the member tab
 Team maintainers can only add user that have already
 [requested and joined](#actions-for-the-dime-account) the DIME account.
 External collaborators can not be added to GitHub teams.
