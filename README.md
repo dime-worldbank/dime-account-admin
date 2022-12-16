@@ -95,6 +95,7 @@ and it does not require coordination between maintainers of many small teams.
 #### How to be a team maintainer
 
 Users are added and removed from the member tab
+on the team's page on the DIME account.
 Team maintainers can only add user that have already
 [requested and joined](#actions-for-the-dime-account) the DIME account.
 External collaborators can not be added to GitHub teams.
@@ -104,6 +105,7 @@ by adding them directly to each repo they need access to.
 DIME Analytics pays a small monthly fee for each external collaborator,
 so the DIME teams are asked to only request access to external users
 who really need access to the repo.
+
 ## Actions for the DIME account
 
 These actions only applies to repos with and URL starting with: https://github.com/dime-worldbank.
@@ -140,32 +142,6 @@ If it says `Sign up`/`Sign in` in the header above you are not signed in in the 
 If you are not sure which account you are logged in to, 
 then see the menu that pops up when you click your profile picture furthest to the right in the header. 
 If nothing of this solves your access, you may reach out to dimeanalytics@worldbank.org.
-
-## Why does DIME use both a DIME account and a WB account?
-
-In the beginning there was just the WB account (https://github.com/worldbank).
-Eventually, DIME projects used almost half of the quotas of the WB account subscription,
-so DIME ended up creating its own account (https://github.com/dime-worldbank).
-The default is that all private DIME repositories should be created at the DIME Account
-but it is up to the team where a public repository should be created.
-
-On one hand it is easier for teams to have both
-private and public repositories on the same account
-as managing user access is easier.
-But on the other hand it is sometimes desirable to put public repositories
-on the WB account as it gets more traffic.
-A common way how DIME teams deal with this
-is to use a private repository on the DIME account before publishing results,
-and use a public repo on the WB account for replication packages
-after the research is published.
-But exactly how to do this is ultimately up to each team.
-
-We can make exceptions and create private repos on the WB account if,
-for example, the project is a collaboration with non-DIME WB teams.
-You may invite external collaborators to repos hosted on the DIME Account.
-However, DIME Analytics pays a small fee for each user
-(including external collaborators) so we ask you to only request that for
-non-DIME users that need active access to the repo.
 
 ## DIME GitHub Training Slides
 
