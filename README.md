@@ -164,7 +164,16 @@ but is not able to do so.
 
 #### Request a new repo to be created on the DIME account
 
-* [Request to create a new repository on DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/request-new-repo-dime-org.md) - only member access (see below)
+If you are mapped to a DIME unit you can request that
+a new repo is created for your team. You find instructions for that
+[here](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/request-new-repo-dime-org.md)
+This page is only visible users currently logged in to GitHub.com
+with a GitHub account already added to the DIME GitHub account.
+If you cannot see the page and it says `Sign up`/`Sign in` at
+the top of the page then you are currently not signed to GitHub.com
+with any account in the browser you are currently using.
+Reach out to DIME Analytics if think you should be able to see it,
+but is not able to do so.
 
 ## Actions for the WB account
 
