@@ -108,22 +108,63 @@ who really need access to the repo.
 
 ## Actions for the DIME account
 
-These actions only applies to repos with and URL starting with: https://github.com/dime-worldbank.
-See section below if this does not apply to your team's repo.
+These instructions only applies to repos hosted on the DIME account.
+Most DIME repos are hosted on the DIME account but not all
+([read more here](#why-does-dime-use-both-the-dime-account-and-the-wb-account)).
+You can know if your repo is hosted on the DIME account by checking
+if your repo has `dime-worldbank` in its URL.
+For example: https://github.com/dime-worldbank/dime-account-admin.
+(If your repo says only `worldbank` instead of `dime-worldbank` then use
+[these instructions](#actions-for-the-wb-account).
 
-Click the following links below to access instructions for how to request actions for the DIME GitHub account. You have to already be a member of the DIME GitHub account (and be logged in to GitHub.com) to access the links that say "(member access only)".
+#### Request to join the DIME account
 
-* [Request to be added to the DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin/blob/main/instructions/request-access-dime-org.md)
+This request is open to you if you are mapped to any of the DIME units.
+You may also use this request if even if you are not mapped to a DIME unit if
+you work for extensively on a DIME project with a DIME TTL,
+that project has a repo on the DIME account,
+and you have a World Bank email.
+If you are not sure if this applies to you, then talk to your DIME supervisor.
+If you do not have a World Bank email, then ask your DIME contact to request
+[external collaborator access](#request-external-collaborator-access-to-a-repo-on-the-dime-account)
+on your behalf.
+
+If this request applies to you, then you find the instructions for this request
+[here](https://github.com/dime-worldbank/dime-account-admin/blob/main/instructions/request-access-dime-org.md).
+This page is open to anyone.
+
+#### Request external collaborator access to a repo on the DIME account
+
+If you are mapped to any of the DIME units you can request that
+an external collaborator is given access to the repo.
+This requiring you sending an email with the terms and conditions
+to the external collaborator who replies
+to that email to saying they accept the terms and conditions.
+Then you forward that email to DIME Analytics who then
+give access to the external collaborator.
+
+DIME Analytics pays a small fee for
+each external collaborator added to private repos.
+We therefore ask the DIME teams to only request access
+for external collaborators who actually need access to the repo.
+We are never charged more than once per external collaborator
+no matter how many repos they have access to.
+And we are not charged for external collaborators only added to public repos.
+
+The terms and conditions to send to the external collaborators
+and more details can be found
+[here](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/add-external-collaborator-dime-org.md)
+This page is only visible users currently logged in to GitHub.com
+with a GitHub account already added to the DIME GitHub account.
+If you cannot see the page and it says `Sign up`/`Sign in` at
+the top of the page then you are currently not signed to GitHub.com
+with any account in the browser you are currently using. 
+Reach out to DIME Analytics if think you should be able to see it,
+but is not able to do so.
+
+#### Request a new repo to be created on the DIME account
+
 * [Request to create a new repository on DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/request-new-repo-dime-org.md) - only member access (see below)
-* [Request to add an external collaborator to a single repo on DIME GitHub account](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/add-external-collaborator-dime-org.md) - only member access (see below)
-
-**(Only member access)** - Links with this note can only be accessed by users who are already members of the DIME GitHub account. 
-See instructions above if you are not a member and you are eligible to request to be added. 
-Make sure you are logged in to GitHub.com before trying to access links with only member access. 
-If it says `Sign up`/`Sign in` in the header above you are not signed in in the browser you are currently using. 
-If you are not sure which account you are logged in to, 
-then see the menu that pops up when you click your profile picture furthest to the right in the header. 
-If nothing of this solves your access, you may reach out to dimeanalytics@worldbank.org.
 
 ## Actions for the WB account
 
