@@ -38,6 +38,63 @@ on private repos on the DIME account.
 In cases where there are about as many non-DIME WB users as DIME users,
 then it is more appropriate that the repo
 sits on the WB account using the WB subscription.
+
+## Why are GitHub teams used to provide access to repos?
+
+This section will use "_project team_" and "_GitHub team_"
+to mean two similar but different things.
+A project team is a set of people working on a project,
+and a GitHub team is a set of GitHub user accounts.
+They are sometimes similar but not always.
+
+The default is that DIME Analytics does not
+give project team members admin access to the repos.
+Admin access gives access to features that can permanently delete content.
+Without admin access, users do not have access to any feature that
+the account admins in DIME Analytics cannot undo.
+Another reason is that admin access gives access
+to features that can incur a cost.
+Since all costs incurred on the DIME account are charged to DIME Analytics,
+any such action should go though one on the account admins in DIME Analytics.
+
+The drawback, however, of not giving anyone in the project team
+admin access to the repo is that no one in the project team has access to
+give and revoke direct access to repos
+as members join and leave the project team.
+This is exactly what GitHub teams provide a solution to.
+The account admins in DIME Analytics can create a GitHub team and
+give access for that team to one or several repos
+which in turn gives access to those repos for anyone added to that team.
+Then one or several members of the project team
+are made maintainers of the GitHub team,
+which allows to add and remove users from that team.
+This way the project team can give access to their repos to new members
+without having to ask the account admins in DIME Analytics each time.
+
+It is possible to have a 1-to-1 relation
+between project team, repo and GitHub team,
+but it is not the best and most efficient usage of GitHub teams.
+When a single project team has multiple repos,
+then they should always use the a single GitHub team for those repos.
+What is even better and less work is that, when possible,
+several project team share a single GitHub team for all their repos.
+For example, several DIME project portfolios, for example ieConnect, DeJure,
+use a single team for all repos for all project teams in that portfolio.
+This does indeed mean that a some users will have access
+to some repos they do not strictly need access to.
+However, this has never caused any issues.
+On the contrary, it makes collaboration across projects easier,
+and it does not require coordination between maintainers of many small teams.
+
+Team maintainers can only add user that have already
+[requested and joined](#actions-for-the-dime-account) the DIME account.
+External collaborators can not be added to GitHub teams.
+Instead, their DIME contact must [request](#actions-for-the-dime-account)
+that DIME Analytics gives them access
+by adding them directly to each repo they need access to.
+DIME Analytics pays a small monthly fee for each external collaborator,
+so the DIME teams are asked to only request access to external users
+who really need access to the repo.
 ## Actions for the DIME account
 
 These actions only applies to repos with and URL starting with: https://github.com/dime-worldbank.
