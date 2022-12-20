@@ -10,8 +10,8 @@ If this does not apply to you, then ask your DIME contact to
 request access as an external collaborator using
 [instructions linked to here](https://github.com/dime-worldbank/dime-account-admin/blob/main/README.md).
 
-One exception for when you can still use this request
-to be added to the DIME account despite not being mapped to DIME is if you:
+One exception for when you can still request to be added to the DIME account
+despite not being mapped to DIME is if you:
 1. Report to a DIME supervisor
 1. Work extensively on a DIME project that as a repo on the DIME GitHub account
 1. Have an active World Bank contract and an active World Bank email
@@ -67,11 +67,11 @@ World Bank Group Staff GitHub.com Pilot terms and conditions:
 > Name of DIME TTL:<br>
 > DIME unit: (answer one of DIME0, DIME1, DIME2, DIME3, DIME4 - ask your supervisor if you are not sure)<br>
 
-### 3. Wait for the for DIME GitHub Team to invite you
+### 3. Wait for the for DIME Analytics to invite you
 
-We usually reply to your email with the request within 2 or 3 business days.
-If you do not get any reply from us within that time frame,
-please follow up on your email.
+DIME Analytics usually reply to your request within 2 or 3 business days.
+If you do not get any reply from within that time frame,
+then please follow up on your email.
 
 ### 4. Accept the invitation
 
@@ -90,6 +90,6 @@ then you need to set your self as a public member of the account.
 To make your self a public member of the DIME account,
 go to https://github.com/orgs/dime-worldbank/people
 and search for your username.
-Make sure that _Public_ is selected instead of _Private_
-and then other users on GitHub.com can see on your profile page
+Make sure that _Public_ is selected instead of _Private_.
+Once this is done, other users on GitHub.com can see on your profile page
 that you are a member of DIME's GitHub account.
