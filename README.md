@@ -93,11 +93,11 @@ For example: https://github.com/dime-worldbank/dime-account-admin.
 #### Request to join the DIME account
 
 This request is open to you if you are mapped to any of the DIME units.
-You may also use this request if you work extensively on a DIME project
-with a DIME TTL, that DIME project has a repo on the DIME account,
-and you have a World Bank email even if you are not mapped to DIME.
+You may also use this request if you have a World Bank email,
+have a DIME supervisor (even though you are not mapped to DIME), and
+you work extensively on a DIME project that has a repo on the DIME account,
 If you are not sure if this applies to you, then talk to your DIME supervisor.
-If you do not have a World Bank email, then ask your DIME contact to request
+If anything of this does not apply to you, then ask your DIME contact to request
 [external collaborator access](#request-external-collaborator-access-to-a-repo-on-the-dime-account)
 on your behalf.
 
