@@ -6,7 +6,7 @@ see [here](https://osf.io/e54gy/).
 
 ## Table of Content
 
-* [Why are GitHub teams used for access to repos?](#why-does-dime-use-both-a-dime-account-and-a-wb-account)
+* [Why are GitHub teams used for access to repos?](#why-are-github-teams-used-to-provide-access-to-repos)
 * [Actions for the DIME account](#actions-for-the-dime-account).
 Join the DIME Github account, invite external collaborators, create a new repo.
 * [Actions for the WB account](#actions-for-the-dime-account).
@@ -80,6 +80,16 @@ Instead, their DIME contact must
 that DIME Analytics gives them access
 by adding them directly to each repo they need access to.
 
+#### List of all teams used on the DIME account
+
+If you are a member of the DIME account already,
+then you can see a list of reports for each team
+[here](https://github.com/dime-worldbank/dime-github-reports/tree/main/reports/team-reports).
+In these reports you can see who is a maintainer for that team
+(i.e. who can add you to that team)
+and which repos this team is used for.
+These reports are updated on a weekly basis.
+
 ## Actions for the DIME account
 
 These instructions only applies to repos hosted on the DIME account.
@@ -104,6 +114,27 @@ on your behalf.
 If this request applies to you, then you find the instructions for this request
 [here](https://github.com/dime-worldbank/dime-account-admin/blob/main/instructions/request-access-dime-org.md).
 This page is open to anyone.
+
+#### Request access to a specific repo once you are a member of the DIME account
+
+On the DIME account we use GitHub teams to manage access to specific repos
+for users who are added to the DIME account.
+You can read about GitHub teams on the DIME account
+[here](#why-are-github-teams-used-to-provide-access-to-repos).
+DIME Analytics sets up these teams,
+and assign someone from the team to be _team maintainer_.
+From that point it is the team maintainer who adds and remove users
+to and from that team in order to give and revoke access
+to the repos that team is used for.
+
+If you do not know which team is used for the repo you want access to,
+then you can see reports for all repos on the DIME account
+[here](https://github.com/dime-worldbank/dime-github-reports/tree/main/reports/repo-reports).
+In these reports you can see which team or teams are used to give access.
+And from there you can click yourself to the report for that team
+and see who is the team maintainer.
+You can then reach out to that team maintainer and ask to be added to that team.
+
 
 #### Request external collaborator access to a repo on the DIME account
 
