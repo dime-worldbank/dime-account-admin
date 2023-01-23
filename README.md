@@ -84,7 +84,7 @@ by adding them directly to each repo they need access to.
 
 If you are a member of the DIME account already,
 then you can see a list of reports for each team
-[here](https://github.com/dime-worldbank/dime-github-reports/tree/main/reports/team-reports).
+[here](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/team-reports).
 In these reports you can see who is a maintainer for that team
 (i.e. who can add you to that team)
 and which repos this team is used for.
@@ -129,7 +129,7 @@ to the repos that team is used for.
 
 If you do not know which team is used for the repo you want access to,
 then you can see reports for all repos on the DIME account
-[here](https://github.com/dime-worldbank/dime-github-reports/tree/main/reports/repo-reports).
+[here](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/repo-reports).
 In these reports you can see which team or teams are used to give access.
 And from there you can click yourself to the report for that team
 and see who is the team maintainer.
