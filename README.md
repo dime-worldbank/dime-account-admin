@@ -9,7 +9,7 @@ see [here](https://osf.io/e54gy/).
 * [Why are GitHub teams used for access to repos?](#why-are-github-teams-used-to-provide-access-to-repos)
 * [Actions for the DIME account](#actions-for-the-dime-account).
 Join the DIME Github account, invite external collaborators, create a new repo.
-* [Actions for the WB account](#actions-for-the-dime-account).
+* [Actions for the WB account](#actions-for-the-wb-account).
 Join the WB GitHub account, invite external collaborators, create a new repo.
 * [Why does DIME use both a DIME account and a WB account?](#why-does-dime-use-both-the-dime-account-and-the-wb-account)
 
