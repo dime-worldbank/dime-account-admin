@@ -1,4 +1,111 @@
-# DIME GitHub Resources
+# DIME GitHub Usage Guidelines
+
+#### Git/GitHub trainings resources
+
+This repo includes instructions related to DIME's GitHub account.
+For Git/GitHub trainings resources see here see [here](https://osf.io/e54gy/).  
+
+## Read first: Two different accounts - different instructions:
+
+DIME repos are typically hosted on the DIME account:
+https://github.com/dime-worldbank.
+However, a few repos are hosted on the WB account:
+https://github.com/worldbank.
+
+Instructions are different depending on whether they
+are for repos hosted on the DIME account,
+or for repos hosted on the WB account.
+Each instruction page will say at the top of it
+whether it is for the DIME account or the WB account.
+**You therefore need to make sure that
+you know which account your repo is hosted in.**
+
+If your repo is hosted on the DIME account
+the URL to your repo starts with
+https://github.com/dime-worldbank/ and if it starts with
+https://github.com/worldbank/ it is hosted on the WB account.
+If it starts with something else,
+it is not hosted in an account managed by DIME Analytics.
+
+## Instructions
+
+Skip to section:
+* [Repo access](#repo-access) - external or internal collaborators
+* [Repo creation](#repo-creation)
+
+### Repo access
+
+Read general access info and then
+scroll down for links to specific instructions.
+
+#### General repo access info:
+
+**Access for external collaborators:**
+External collaborators can be added to one or several individual repos.
+This give them the same type of access as DIME members
+for the specific repo they are added to.
+They do not get access to shared resources hosted on the account.
+For instructions, see links below in the
+DIME or WB account section depending on where your repos is hosted.
+
+**Access for internal collaborators:**
+Internal collaborators are not added to individual repos.
+They are added as members to the account,
+and then added to GitHub teams.
+The GitHub teams are added to repos,
+and everyone who is a member of a GitHub team used for a repo,
+has access to that repo.
+Someone for the project is made maintainer of the GitHub team,
+such that they can give and revoke access to a repo
+by adding and removing someone from the team,
+without needing to ask DIME Analytics to help.
+Read more about how DIME use GitHub teams
+[here](../resources/why-use-teams.md).
+For instructions, see links below in the
+DIME or WB account section depending on where your repos is hosted.
+
+#### DIME Account - Repo access instructions links:
+
+These instructions applies to repos with URLs starting with:
+https://github.com/dime-worldbank
+
+**Internal collaborator access:** [Request to be added to the DIME account](../instructions/dime-become-member.md) -
+_page open to public_.
+Click the link for info on
+how to request to be added to the DIME account,
+who can request to be come member,
+how to get access to repos once becoming a member, etc.
+
+**External collaborator access:** [Request for someone else to be added as external collaborator]() -
+_page only open to DIME account members_.
+Click the link for info on the steps required to request that
+and external collaborator will be added to one or several repos.
+Note that the email to add an external collaborator needs to
+be sent to DIME Analytics from DIME member who
+is TTL for the project or who has access to the repo already.
+
+#### WB Account - Repo access instructions links:
+
+These instructions applies to repos with URLs starting with:
+https://github.com/worldbank
+
+**Internal collaborator access:**
+[eServices request to request access to WB account](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) -
+_page open to anyone with access to WB intranet_.
+After the eServices request is approved,
+and you have accepted the system generated invitation,
+then you need to be added to a team to get access to repos.
+Read more about that
+[here](../resources/why-use-teams.md).
+
+**External collaborator access:** [Request for someone else to be added as external collaborator]() -
+_page only open to DIME account members_.
+Click the link for info on the steps required to request that
+and external collaborator will be added to one or several repos.
+Note that the email to add an external collaborator needs to
+be sent from WB member who has access to the repo already.
+
+### Repo creation
 
 This repo includes instructions related to DIME's GitHub repos.
 For general GitHub resources, including all of DIME Analytics GitHub trainings,
