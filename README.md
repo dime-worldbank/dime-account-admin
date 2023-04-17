@@ -27,13 +27,14 @@ https://github.com/worldbank/ it is hosted on the WB account.
 If it starts with something else,
 it is not hosted in an account managed by DIME Analytics.
 
-## Instructions
+## General Instructions
 
 **Skip to section:**
 * [Repo access](#repo-access) - external or internal collaborators
 * [Repo creation](#repo-creation)
 
-**Access to resources**
+#### Access to resources
+
 Many resources and instructions linked to are only available
 with people already added as members to the DIME Account.
 This applies to links that are followed by:
@@ -49,14 +50,14 @@ send an email to DIME Analytics with
 your GitHub username and a link to page where
 you see the link that gives a 404 error when you click it.
 
-### Repo access
+## Repo access
 
 Read general access info and then
 scroll down for links to specific instructions.
 
-#### General repo access info:
+### General repo access info
 
-**Access for external collaborators:**
+#### Access for external collaborators:
 External collaborators can be added to one or several individual repos.
 This give them the same type of access as DIME members
 for the specific repo they are added to.
@@ -64,7 +65,7 @@ They do not get access to shared resources hosted on the account.
 For instructions, see links below in the
 DIME or WB account section depending on where your repos is hosted.
 
-**Access for internal collaborators:**
+#### Access for internal collaborators:
 Internal collaborators are not added to individual repos.
 They are added as members to the account,
 and then added to GitHub teams.
@@ -80,19 +81,20 @@ Read more about how DIME use GitHub teams
 For instructions, see links below in the
 DIME or WB account section depending on where your repos is hosted.
 
-#### DIME Account - Access instructions links:
+### DIME Account - Access instructions links:
 
 These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank
 
-**Internal - become member:** [Request to be added to the DIME account](../instructions/dime-become-member.md) -
+#### Internal - become member:
+[Request to be added to the DIME account](../instructions/dime-become-member.md) -
 _page open to public_.
 Click the link for info on
 how to request to be added to the DIME account,
 who can request to be come member,
 how to get access to repos once becoming a member, etc.
 
-**Internal - get access to a repo:**
+#### Internal - get access to a repo:
 [Request to be added to team to get access to repo](LINKLINK) -
 _page only open to DIME account members_.
 Click the link for info on how to look up
@@ -100,7 +102,8 @@ what team is used to give access to a repo,
 and who is the maintainer for that team.
 The maintainer is the person you should ask to add you to that team.
 
-**External - get access to a repo:** [Request for someone else to be added as external collaborator](LINKLINK) -
+#### External - get access to a repo:
+[Request for someone else to be added as external collaborator](LINKLINK) -
 _page only open to DIME account members_.
 Click the link for info on the steps required to request that
 and external collaborator will be added to one or several repos.
@@ -108,13 +111,12 @@ Note that the email to add an external collaborator needs to
 be sent to DIME Analytics from DIME member who
 is TTL for the project or who has access to the repo already.
 
-
-#### WB Account - Access instructions links:
+### WB Account - Access instructions links:
 
 These instructions applies to repos with URLs starting with:
 https://github.com/worldbank
 
-**Internal collaborator access:**
+#### Internal collaborator access:
 [eServices request to request access to WB account](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) -
 _page open to anyone with access to WB intranet_.
 After the eServices request is approved,
@@ -123,7 +125,8 @@ then you need to be added to a team to get access to repos.
 Read more about that
 [here](../resources/why-use-teams.md).
 
-**External collaborator access:** [Request for someone else to be added as external collaborator](LINKLINK) -
+#### External collaborator access:
+[Request for someone else to be added as external collaborator](LINKLINK) -
 _page only open to DIME account members_.
 Click the link for info on the steps required to request that
 and external collaborator will be added to one or several repos.
