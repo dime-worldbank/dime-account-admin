@@ -28,28 +28,37 @@ https://github.com/worldbank/ it is hosted on the WB account.
 If it starts with something else,
 it is not hosted on an account managed by DIME Analytics.
 
-## General Instructions
-
-**Skip to section:**
-* [Repo access](#repo-access) - external or internal collaborators
+## Skip to section
+* [Repo access](#repo-access)
+  * [DIME Account - Access for internal user](#dime-become-internal-member)
+  * [DIME Account - Access for external user](#dime-request-external-access)
+  * [WB Account - Access for internal user](#wb-become-internal-member)
+  * [WB Account - Access for external user](#wb-request-external-access)
 * [Repo creation](#repo-creation)
 
-#### Access to instructions for the GitHub accounts
+## Resources with restricted access
 
 Many resources and instructions linked to here are only available
 with people already added as members to the DIME Account.
 This applies to links that are followed by:
 "_page only open to DIME account members_".
-If you are added to the DIME account but
-get a 404 error when clicking the link,
+
+If you are a member of the DIME account but
+still get a 404 error when clicking a resticted access link,
 then make sure that you are logged in to GitHub.com
 in the browser you are using.
 If it says "_Sign up_"/"_Sign in_" at the top of the page,
 then you are not logged in to any account in that browser.
+
+If you are still getting an error, 
+make sure you are not logged in using a different account 
+than the account you used when you requested 
+to become a member of the DIME account.
+
 If you still think something is wrong,
 send an email to DIME Analytics with
-your GitHub username and a link to page where
-you see the link that gives a 404 error when you click it.
+your GitHub username and a link to the page
+that gives the 404 error.
 
 ## Repo access
 
@@ -69,15 +78,25 @@ by adding and removing someone from the team,
 without needing to ask DIME Analytics to help.
 Read more about how DIME use GitHub teams
 [here](../resources/why-use-teams.md).
-For instructions on how to request , see links below in the
-DIME or WB account section depending on where your repos is hosted.
+
+For instructions on how to request to become a member of an account, 
+see guidelines for the [DIME account](#dime-become-internal-member) 
+and the [WB account](#wb-become-internal-member). 
+See [here](#read-first-which-account-is-your-repo-hosted-on) 
+if you are not sure which account your repo is hosted on.
 
 **External collaborators can be added to one or several individual repos.**
 This give them the same type of access as DIME members
 for the specific repo they are added to.
 However, they do not get access to shared resources hosted on the account.
-For instructions, see links below in the
-DIME or WB account section depending on where your repos is hosted.
+
+The request for an external 
+For instructions on how to request to become a member of an account, 
+see guidelines for the [DIME account](#dime-become-internal-member) 
+and the [WB account](#wb-become-internal-member). 
+See [here](#read-first-which-account-is-your-repo-hosted-on) 
+if you are not sure which account your repo is hosted on.
+
 
 ### DIME Account - Access instructions links:
 
@@ -92,7 +111,7 @@ how to request to be added to the DIME account,
 who can request to be come member,
 how to get access to repos once becoming a member, etc.
 
-#### DIME - get access to a repo:
+#### DIME: Get access to a repo:
 [Request to be added to team to get access to repo](LINKLINK) -
 _page only open to DIME account members_.
 Click the link for info on how to look up
@@ -100,7 +119,7 @@ what team is used to give access to a repo,
 and who is the maintainer for that team.
 The maintainer is the person you should ask to add you to that team.
 
-#### DIME - request external access:
+#### DIME: Request external access:
 [Request for someone else to be added as external collaborator](LINKLINK) -
 _page only open to DIME account members_.
 Click the link for info on the steps required to request that
@@ -114,7 +133,7 @@ is TTL for the project or who has access to the repo already.
 These instructions applies to repos with URLs starting with:
 https://github.com/worldbank
 
-#### WB become internal member:
+#### WB: Become internal member:
 [eServices request to request access to WB account](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) -
 _page open to anyone with access to WB intranet_.
 After the eServices request is approved,
@@ -123,7 +142,7 @@ then you need to be added to a team to get access to repos.
 Read more about that
 [here](../resources/why-use-teams.md).
 
-#### WB - Request external access:
+#### WB: Request external access:
 [Request for someone else to be added as external collaborator](LINKLINK) -
 _page only open to DIME account members_.
 Click the link for info on the steps required to request that
