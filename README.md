@@ -58,28 +58,26 @@ you see the link that gives a 404 error when you click it.
 Read general access info and then
 scroll down for links to specific instructions.
 
-### General repo access info
+### Access for internal vs. external collaborators
 
-#### Access for external collaborators:
-_External collaborators can be added to one or several individual repos._
-This give them the same type of access as DIME members
-for the specific repo they are added to.
-They do not get access to shared resources hosted on the account.
-For instructions, see links below in the
-DIME or WB account section depending on where your repos is hosted.
-
-#### Access for internal collaborators:
-_Internal collaborators are added as members of the DIME/WB account instead of directly individual repos._
-As members of the account they can be added to GitHub teams.
+**Internal collaborators are added as members of the DIME/WB account instead of directly to individual repos.**
+As members of the account DIME users can be added to GitHub teams.
 The GitHub teams are added to repos,
 and everyone who is a member of a GitHub team used for a repo,
 has access to that repo.
-Someone for the project is made maintainer of the GitHub team,
+Someone from the project is made maintainer of the GitHub team,
 such that they can give and revoke access to a repo
 by adding and removing someone from the team,
 without needing to ask DIME Analytics to help.
 Read more about how DIME use GitHub teams
 [here](../resources/why-use-teams.md).
+For instructions on how to request , see links below in the
+DIME or WB account section depending on where your repos is hosted.
+
+**External collaborators can be added to one or several individual repos.**
+This give them the same type of access as DIME members
+for the specific repo they are added to.
+However, they do not get access to shared resources hosted on the account.
 For instructions, see links below in the
 DIME or WB account section depending on where your repos is hosted.
 
@@ -88,7 +86,7 @@ DIME or WB account section depending on where your repos is hosted.
 These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank
 
-#### Internal - become member:
+#### DIME - become internal member:
 [Request to be added to the DIME account](../instructions/dime-become-member.md) -
 _page open to public_.
 Click the link for info on
@@ -96,7 +94,7 @@ how to request to be added to the DIME account,
 who can request to be come member,
 how to get access to repos once becoming a member, etc.
 
-#### Internal - get access to a repo:
+#### DIME - get access to a repo:
 [Request to be added to team to get access to repo](LINKLINK) -
 _page only open to DIME account members_.
 Click the link for info on how to look up
@@ -104,7 +102,7 @@ what team is used to give access to a repo,
 and who is the maintainer for that team.
 The maintainer is the person you should ask to add you to that team.
 
-#### External - get access to a repo:
+#### DIME - request external access:
 [Request for someone else to be added as external collaborator](LINKLINK) -
 _page only open to DIME account members_.
 Click the link for info on the steps required to request that
@@ -118,7 +116,7 @@ is TTL for the project or who has access to the repo already.
 These instructions applies to repos with URLs starting with:
 https://github.com/worldbank
 
-#### Internal collaborator access:
+#### WB become internal member:
 [eServices request to request access to WB account](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) -
 _page open to anyone with access to WB intranet_.
 After the eServices request is approved,
@@ -127,7 +125,7 @@ then you need to be added to a team to get access to repos.
 Read more about that
 [here](../resources/why-use-teams.md).
 
-#### External collaborator access:
+#### WB - Request external access:
 [Request for someone else to be added as external collaborator](LINKLINK) -
 _page only open to DIME account members_.
 Click the link for info on the steps required to request that
