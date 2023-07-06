@@ -2,7 +2,8 @@
 
 **These instructions are for the DIME Account.
 Your repo is hosted on this account if your repo URL starts with:**
-https://github.com/dime-worldbank
+https://github.com/dime-worldbank.
+If that is not the case, then see [here](../README.md).
 
 **Skip to section:**
 * Who can become a member
