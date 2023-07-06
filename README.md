@@ -8,20 +8,18 @@ Git/GitHub resources see here see
 [here](https://osf.io/e54gy/)
 and/or [here](https://github.com/worldbank/dime-github-trainings).  
 
-## Read first: Two different accounts - different instructions:
+## Read first: Which account is your repo hosted on?
+
+**Before submitting any request,
+make sure you know which account your repo is hosted on.**
 
 DIME repos are typically hosted on the DIME account:
 https://github.com/dime-worldbank.
 However, a few repos are hosted on the WB account:
 https://github.com/worldbank.
-
-Instructions are different depending on whether they
-are for repos hosted on the DIME account,
-or for repos hosted on the WB account.
-Each instruction page will say at the top of it
-whether it is for the DIME account or the WB account.
-**You therefore need to first make sure that
-you know which account your repo is hosted on.**
+Instructions are different depending on which
+account your repo is hosted on.
+The instructions will say which account they are for.
 
 If your repo is hosted on the DIME account
 the URL to your repo starts with
@@ -86,7 +84,7 @@ DIME or WB account section depending on where your repos is hosted.
 These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank
 
-#### DIME - become internal member:
+#### DIME: Become internal member:
 [Request to be added to the DIME account](../instructions/dime-become-member.md) -
 _page open to public_.
 Click the link for info on
