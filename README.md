@@ -29,9 +29,21 @@ If it starts with something else,
 it is not hosted on an account managed by DIME Analytics.
 
 ## Skip to section
-* [Repo access](#repo-access)
-  * [DIME Account - Access for internal user](#dime-become-internal-member)
-  * [DIME Account - Access for external user](#dime-request-external-access)
+
+Make sure you first know if your repo is hosted on the DIME or WB account. See above.
+
+* DIME Account
+  * Request to become member of account
+    * [DIME Member](#dime-become-internal-member)
+    * External Collaborator - see DIME Member for ex
+    * [External Collaborator](#dime-request-external-access)
+  * [Repo access](#repo-access)
+* WB Account:
+  * Become member of the account
+    * [WB Member](#dime-become-internal-member)
+  * Give user access to repo
+    * [DIME Member](#dime-become-internal-member)
+    * [External Collaborator](#dime-request-external-access)
   * [WB Account - Access for internal user](#wb-become-internal-member)
   * [WB Account - Access for external user](#wb-request-external-access)
 * [Repo creation](#repo-creation)
@@ -50,9 +62,9 @@ in the browser you are using.
 If it says "_Sign up_"/"_Sign in_" at the top of the page,
 then you are not logged in to any account in that browser.
 
-If you are still getting an error, 
-make sure you are not logged in using a different account 
-than the account you used when you requested 
+If you are still getting an error,
+make sure you are not logged in using a different account
+than the account you used when you requested
 to become a member of the DIME account.
 
 If you still think something is wrong,
@@ -79,10 +91,10 @@ without needing to ask DIME Analytics to help.
 Read more about how DIME use GitHub teams
 [here](../resources/why-use-teams.md).
 
-For instructions on how to request to become a member of an account, 
-see guidelines for the [DIME account](#dime-become-internal-member) 
-and the [WB account](#wb-become-internal-member). 
-See [here](#read-first-which-account-is-your-repo-hosted-on) 
+For instructions on how to request to become a member of an account,
+see guidelines for the [DIME account](#dime-become-internal-member)
+and the [WB account](#wb-become-internal-member).
+See [here](#read-first-which-account-is-your-repo-hosted-on)
 if you are not sure which account your repo is hosted on.
 
 **External collaborators can be added to one or several individual repos.**
@@ -90,11 +102,11 @@ This give them the same type of access as DIME members
 for the specific repo they are added to.
 However, they do not get access to shared resources hosted on the account.
 
-The request for an external 
-For instructions on how to request to become a member of an account, 
-see guidelines for the [DIME account](#dime-become-internal-member) 
-and the [WB account](#wb-become-internal-member). 
-See [here](#read-first-which-account-is-your-repo-hosted-on) 
+The request for an external
+For instructions on how to request to become a member of an account,
+see guidelines for the [DIME account](#dime-become-internal-member)
+and the [WB account](#wb-become-internal-member).
+See [here](#read-first-which-account-is-your-repo-hosted-on)
 if you are not sure which account your repo is hosted on.
 
 
