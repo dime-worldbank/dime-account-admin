@@ -13,27 +13,27 @@ These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank.
 Read more about why we use multiple accounts [here](../resources/why-mutliple-accounts.md).
 
-* Request to become DIME account member
-  * [DIME user](#dime-become-internal-member)
+* **Request to become DIME account member**
+  * [DIME user](#dime-account-request-membership)
   * External Collaborator - see DIME Member for exceptions
-* Give user access to repo
-  * [DIME account member](#dime-request-external-access)
-  * [External collaborator](#dime-request-external-access)
-* Repo creation
-  * [DIME account member - request new repo](#repo-creation)
+* **Give user access to DIME account repo**
+  * [DIME account member](#dime-account-repo-access)
+  * [External collaborator](#dime-account-repo-access)
+* **Repo creation on the DIME account**
+  * [DIME account member - request new repo](#dime-account-repo-creation)
 
 ###  Skip to actions for the WB Account:
 These instructions applies to repos with URLs starting with:
 https://github.com/worldbank.
 Read more about why we use multiple accounts [here](../resources/why-mutliple-accounts.md).
 
-* Become member of the account
-  * [WB user](#dime-become-internal-member)
-* Give user access to repo
-  * [WB account member](#dime-become-internal-member)
-  * [External Collaborator](#dime-request-external-access)
-* Repo creation
-  * [DIME member - request new repo](#repo-creation)
+* **Request to become WB account member**
+  * [WB user](#wb-account-request-membership)
+* **Give user access to WB account repo**
+  * [WB account member](#wb-account-repo-access)
+  * [External Collaborator](#wb-account-repo-access)
+* **Repo creation on the WB account**
+  * [DIME member - request new repo](#wb-account-repo-creation)
 
 ### Why add DIME users as members first?
 
