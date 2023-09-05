@@ -11,7 +11,7 @@ and/or [here](https://github.com/worldbank/dime-github-trainings).
 ### Skip to actions for the DIME Account:
 These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank.
-Read more about why we use multiple accounts [here](../resources/why-mutliple-accounts.md).
+Read more about why we use multiple accounts [here](./resources/why-multiple-accounts.md).
 
 * **Request to become DIME account member**
   * [DIME user](#dime-account-request-membership)
@@ -25,7 +25,7 @@ Read more about why we use multiple accounts [here](../resources/why-mutliple-ac
 ###  Skip to actions for the WB Account:
 These instructions applies to repos with URLs starting with:
 https://github.com/worldbank.
-Read more about why we use multiple accounts [here](../resources/why-mutliple-accounts.md).
+Read more about why we use multiple accounts [here](./resources/why-multiple-accounts.md).
 
 * **Request to become WB account member**
   * [WB user](#wb-account-request-membership)
@@ -63,8 +63,8 @@ https://github.com/dime-worldbank.
 
 ### DIME Account: Request membership
 
-* **DIME users:** [Instructions and details](../instructions/dime-become-member.md).
-* **External collaborators:** Typically only added directly to repos (see repo access below). See [instructions for DIME users](../instructions/dime-become-member.md) for a few exceptions.
+* **DIME users:** [Instructions and details](./instructions/dime-become-member.md).
+* **External collaborators:** Typically only added directly to repos (see repo access below). See [instructions for DIME users](./instructions/dime-become-member.md) for a few exceptions.
 
 **_Quick notes:_**
 * DIME account membership allows the user to be added to GitHub teams - which means that the project teams can manage access without involving DIME Analytics
@@ -75,7 +75,7 @@ _See pages with instructions for more details._
 
 ### DIME Account: Repo access
 
-* **DIME users:** [Add DIME account member to team](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-repo-access-member.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
+* **DIME account members:** [Add DIME account member to team](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-repo-access-member.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
 * **External collaborators:** [Request access to repo on behalf of external collaborator](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-repo-access-external.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
 
 **_Quick notes:_**
@@ -117,14 +117,14 @@ _See pages with instructions for more details._
 
 ### WB Account: Repo access
 
-* **WB users:** [Add WB account member to team](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-repo-access-member.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
+* **WB account member:** [Add WB account member to team](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-repo-access-member.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
 * **External collaborators:** [Request access to repo on behalf of external collaborator](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-repo-access-external.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
 
 **_Quick notes:_**
 * Similarly to the DIME account, WB account members are given access to repos through maintainers adding them to GitHub teams on the WB account.
 * GitHub teams on the DIME account cannot be used for repos on the WB account
 * DIME Analytics does not generate repo and team reports
-(i.e. [these]([repo reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports))) for the WB account.
+(i.e. [these](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports)) for the WB account.
 Instead, browse this page https://github.com/orgs/worldbank/teams (_WB account member access only_) to find which team is used for which repo.
 * External collaborators are not added to the DIME account and can therefore not be added to GitHub teams. Instead, external collaborators are added to individual repos.
 * The request to add external collaborators to a repo should be sent to DIME Analytics by a person at DIME.
