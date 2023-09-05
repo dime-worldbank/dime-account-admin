@@ -1,231 +1,143 @@
-# DIME GitHub Resources
+# DIME GitHub Account Guidelines
 
-This repo includes instructions related to DIME's GitHub repos.
-For general GitHub resources, including all of DIME Analytics GitHub trainings,
-see [here](https://osf.io/e54gy/).  
+#### Git/GitHub trainings resources
 
-## Table of Content
+This repo includes instructions related to DIME's GitHub account.
+For Git/GitHub trainings and DIME Analytics other
+Git/GitHub resources see here see
+[here](https://osf.io/e54gy/)
+and/or [here](https://github.com/worldbank/dime-github-trainings).  
 
-* [Why are GitHub teams used for access to repos?](#why-are-github-teams-used-to-provide-access-to-repos)
-* [Actions for the DIME account](#actions-for-the-dime-account).
-Join the DIME Github account, invite external collaborators, create a new repo.
-* [Actions for the WB account](#actions-for-the-wb-account).
-Join the WB GitHub account, invite external collaborators, create a new repo.
-* [Why does DIME use both a DIME account and a WB account?](#why-does-dime-use-both-the-dime-account-and-the-wb-account)
+### Skip to actions for the DIME Account:
+These instructions applies to repos with URLs starting with:
+https://github.com/dime-worldbank.
+Read more about why we use multiple accounts [here](../resources/why-mutliple-accounts.md).
 
-## Why are GitHub teams used to provide access to repos?
+* **Request to become DIME account member**
+  * [DIME user](#dime-account-request-membership)
+  * External Collaborator - see DIME Member for exceptions
+* **Give user access to DIME account repo**
+  * [DIME account member](#dime-account-repo-access)
+  * [External collaborator](#dime-account-repo-access)
+* **Repo creation on the DIME account**
+  * [DIME account member - request new repo](#dime-account-repo-creation)
 
-This section will use "_project team_" and "_GitHub team_"
-to mean two similar but different things.
-A project team is a set of people working on a project,
-and a GitHub team is a set of GitHub user accounts.
-The rest of this section explains how they are similar but also different,
-as well as how GitHub teams are used on the DIME account.
+###  Skip to actions for the WB Account:
+These instructions applies to repos with URLs starting with:
+https://github.com/worldbank.
+Read more about why we use multiple accounts [here](../resources/why-mutliple-accounts.md).
 
-#### Admin access are not given to project members
+* **Request to become WB account member**
+  * [WB user](#wb-account-request-membership)
+* **Give user access to WB account repo**
+  * [WB account member](#wb-account-repo-access)
+  * [External Collaborator](#wb-account-repo-access)
+* **Repo creation on the WB account**
+  * [DIME member - request new repo](#wb-account-repo-creation)
 
-The default is that DIME Analytics does not
-give project team members admin access to the repos.
-This is due to two reasons.
-First, admin access gives users access to "_destructive features_"
-(for example permanently delete a repo)
-the account admins in DIME Analytics cannot undo.
-Second, admin access gives users access to features that can incur a cost.
-Since all costs incurred on the DIME account are charged to DIME Analytics,
-any such action should go through DIME Analytics.
+### Other accounts
 
-#### GitHub teams solves repo access management without admin access
+DIME Analytics can provide general advice for
+DIME repos hosted on other accounts.
+For example accounts owned by external collaborators the project work with.
+But since DIME Analytics do not have admin rights on those repos,
+there are no specific guidelines for such repos.
 
-The drawback, however, of not giving admin access is that
-no one in the project team is able to give and revoke direct access to repos
-as members join and leave the project.
-This is exactly what _GitHub teams_ provide a solution to.
-The account admins in DIME Analytics create a GitHub team and
-give access for that team to one or several repos,
-which in turn gives users added to that team access to those repos.
-Then one or several members of the project team
-are made maintainers of the GitHub team,
-which allows them to add and remove users from that team.
-This way, the project team can indirectly
-give and revoke access to repos for project team members,
-without having to ask the account admins in DIME Analytics each time.
+### Why add DIME users as members first?
 
-#### Best practice for GitHub teams
+Users with an active contract with DIME ("_DIME users_")
+should be added as members of
+the https://github.com/dime-worldbank account ("_DIME account members_").
+Adding DIME users as account members has these advantages:
 
-It is possible to have 1-to-1 relations
-between project team, repo and GitHub team,
-but it is not the best or most efficient usage of GitHub teams.
-When a single project team has multiple repos,
-then they should always use the a single GitHub team for all those repos.
-And, what is even better and even less work is that, when possible,
-several project teams share a single GitHub team for all their repos.
-Several DIME project portfolios,
-for example ieConnect, DeJure, DIME Analytics etc.,
-use a single team for all repos for all project teams in that portfolio.
-This does indeed mean that some users will have access
-to some repos they do not strictly need access to.
-However, this has never caused any issues.
-On the contrary, it makes collaboration across projects easier,
-and it does not require coordination between maintainers of many small teams.
+* Project teams can give and revoke access to their repos when DIME users join or leave the team without having to involve DIME Analytics
+* Collaboration across teams is easier as other DIME users can
+quickly be given access to repos without having to involve DIME Analytics
+* This provides a way to manage access to content
+on the DIME account to DIME members only.
 
-#### How to be a team maintainer
+## DIME Account
 
-Users are added and removed from the team on the member tab
-of the team's page on the DIME account.
-Team maintainers can only add user that have already
-[requested and joined](#request-to-join-the-dime-account) the DIME account.
-External collaborators can not be added to GitHub teams.
-Instead, their DIME contact must
-[request](#request-external-collaborator-access-to-a-repo-on-the-dime-account)
-that DIME Analytics gives them access
-by adding them directly to each repo they need access to.
+These instructions applies to repos with URLs starting with:
+https://github.com/dime-worldbank.
 
-#### List of all teams used on the DIME account
+### DIME Account: Request membership
 
-If you are a member of the DIME account already,
-then you can see a list of reports for each team
-[here](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/team-reports).
-In these reports you can see who is a maintainer for that team
-(i.e. who can add you to that team)
-and which repos this team is used for.
-These reports are updated on a weekly basis.
+* **DIME users:** [Instructions and details](../instructions/dime-become-member.md).
+* **External collaborators:** Typically only added directly to repos (see repo access below). See [instructions for DIME users](../instructions/dime-become-member.md) for a few exceptions.
 
-## Actions for the DIME account
+**_Quick notes:_**
+* DIME account membership allows the user to be added to GitHub teams - which means that the project teams can manage access without involving DIME Analytics
+* Users with a contract mapped to DIME can be added as DIME account members.
+* Becoming a DIME account member gives you access to many resources hosted on the DIME account, but to get access to project repos the user needs to be added to GitHub teams after becoming a member (see repo access below).
 
-These instructions only applies to repos hosted on the DIME account.
-Most DIME repos are hosted on the DIME account but not all
-([read more here](#why-does-dime-use-both-the-dime-account-and-the-wb-account)).
-Your repo is hosted on the DIME account if it has `dime-worldbank` in its URL.
-For example: https://github.com/dime-worldbank/dime-account-admin.
-(If your repo says `worldbank` instead of `dime-worldbank` then use
-[these instructions](#actions-for-the-wb-account) instead.
+_See pages with instructions for more details._
 
-#### Request to join the DIME account
+### DIME Account: Repo access
 
-This request is open to you if you are mapped to any of the DIME units.
-You may also use this request if you have a World Bank email,
-have a DIME supervisor (even though you are not mapped to DIME), and
-you work extensively on a DIME project that has a repo on the DIME account,
-If you are not sure if this applies to you, then talk to your DIME supervisor.
-If anything of this does not apply to you, then ask your DIME contact to request
-[external collaborator access](#request-external-collaborator-access-to-a-repo-on-the-dime-account)
-on your behalf.
+* **DIME users:** [Add DIME account member to team](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-repo-access-member.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
+* **External collaborators:** [Request access to repo on behalf of external collaborator](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-repo-access-external.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
 
-If this request applies to you, then you find the instructions for this request
-[here](https://github.com/dime-worldbank/dime-account-admin/blob/main/instructions/request-access-dime-org.md).
-This page is open to anyone.
+**_Quick notes:_**
+* Users who already are members of the DIME account (see above how to become a member) are given access to the repo by adding them to the GitHub team used for that repo.
+* The maintainer of the GitHub team can add DIME account members to the team without involving DIME Analytics. (DIME Analytics can help but will reach out to maintainer for approval.)
+* To see who is maintainer of a GitHub team,
+see the [team reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/team-reports).
+To see what GitHub team is used for a repo,
+see the [repo reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/repo-reports).
+* External collaborators are not added to the DIME account and can therefore not be added to GitHub teams. Instead, external collaborators are added to individual repos.
+* The request to add external collaborators to a repo should be sent to DIME Analytics by a person at DIME.
 
-#### Request access to a specific repo once you are a member of the DIME account
+_See pages with instructions for more details._
 
-On the DIME account we use GitHub teams to manage access to specific repos
-for users who are added to the DIME account.
-You can read about GitHub teams on the DIME account
-[here](#why-are-github-teams-used-to-provide-access-to-repos).
-DIME Analytics sets up these teams,
-and assign someone from the team to be _team maintainer_.
-From that point it is the team maintainer who adds and remove users
-to and from that team in order to give and revoke access
-to the repos that team is used for.
+### DIME Account: Repo creation
 
-If you do not know which team is used for the repo you want access to,
-then you can see reports for all repos on the DIME account
-[here](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/repo-reports).
-In these reports you can see which team or teams are used to give access.
-And from there you can click yourself to the report for that team
-and see who is the team maintainer.
-You can then reach out to that team maintainer and ask to be added to that team.
+* [Repo creation instructions](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-create-repo.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
 
+**_Quick notes:_**
+* The request to create a new repo can be sent by anyone in DIME (does not need to be a member of the DIME account or even have a GitHub account)
+* The request to create a new repo needs to be approved by a DIME manager
 
-#### Request external collaborator access to a repo on the DIME account
+_See pages with instructions for more details._
 
-If you are mapped to any of the DIME units you can request that
-an external collaborator is invited to
-one or several of your project team's repo.
-This requires you sending an email with the terms and conditions
-to the external collaborator, who then replies to that email to you
-saying they accept the terms and conditions.
-Then you forward that email to DIME Analytics who then
-invite the external collaborator to that or those repos.
+## WB Account
 
-DIME Analytics pays a small fee for
-each external collaborator added to private repos.
-We therefore ask the DIME teams to only request access
-for external collaborators who actually needs access to the repo.
-We are not charged for external collaborators
-that are only added to public repos.
-We are never charged more than once per external collaborator
-no matter how many private repos they are given access to.
+These instructions applies to repos with URLs starting with:
+https://github.com/worldbank.
 
-The terms and conditions to send to the external collaborators
-and more details about this request can be found
-[here](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/add-external-collaborator-dime-org.md).
-This page is only visible to users currently logged in to GitHub.com
-with a GitHub account already added to the DIME GitHub account.
-If you cannot see the page and it says "_Sign up_"/"_Sign in_" at
-the top of the page, then you are currently not signed to GitHub.com
-with any account in the browser you are currently using.
-Reach out to DIME Analytics if think you should be able to see it,
-but are not able to do so.
+### WB Account: Request membership
 
-#### Request a new repo to be created on the DIME account
+* **WB users:** [eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (_WB intranet access only_)
 
-If you are mapped to a DIME unit you can request that
-a new repo is created for your team.
-You find instructions for requesting the creation of a repo on the DIME account
-[here](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/request-new-repo-dime-org.md)
-This page is only visible to users currently logged in to GitHub.com
-with a GitHub account already added to the DIME GitHub account.
-If you cannot see the page and it says "_Sign up_"/"_Sign in_" at
-the top of the page, then you are currently not signed to GitHub.com
-with any account in the browser you are currently using.
-Reach out to DIME Analytics if think you should be able to see it,
-but are not able to do so.
+**_Quick notes:_**
+* Anyone with an active WB contract and a GitHub account can use the eServices request to join the WB account
+* Joining the WB account do not by itself give access to any repo hosted there
 
-## Actions for the WB account
+_See pages with instructions for more details._
 
-These instructions only applies to repos hosted on the WB account.
-Your repo is hosted on the DIME account if it has `worldbank` in its URL.
-For example: https://github.com/worldbank/ietoolkit.
-(If your repo says `dime-worldbank` instead of `worldbank` then use
-[these instructions](#actions-for-the-dime-account) instead.
+### WB Account: Repo access
 
-Anyone with an active WB contract can join the WB account by using this
-[eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912).
-This page is only visible if you have access to the WB intranet.
+* **WB users:** [Add WB account member to team](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-repo-access-member.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
+* **External collaborators:** [Request access to repo on behalf of external collaborator](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-repo-access-external.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
 
-Requests for new repos and adding external collaborators to the repos hosted on the WB account can be found [here](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-github-account.md)
-This page is only visible to users currently logged in to GitHub.com
-with a GitHub account already added to the DIME GitHub account.
-If you cannot see the page and it says "_Sign up_"/"_Sign in_" at
-the top of the page, then you are currently not signed to GitHub.com
-with any account in the browser you are currently using.
-Reach out to DIME Analytics if think you should be able to see it,
-but are not able to do so.
+**_Quick notes:_**
+* Similarly to the DIME account, WB account members are given access to repos through maintainers adding them to GitHub teams on the WB account.
+* GitHub teams on the DIME account cannot be used for repos on the WB account
+* DIME Analytics does not generate repo and team reports
+(i.e. [these]([repo reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports))) for the WB account.
+Instead, browse this page https://github.com/orgs/worldbank/teams (_WB account member access only_) to find which team is used for which repo.
+* External collaborators are not added to the DIME account and can therefore not be added to GitHub teams. Instead, external collaborators are added to individual repos.
+* The request to add external collaborators to a repo should be sent to DIME Analytics by a person at DIME.
 
-## Why does DIME use both the DIME account and the WB account?
+_See pages with instructions for more details._
 
-Initially there was just the WB account (https://github.com/worldbank).
-Eventually, DIME projects used almost half of the quota
-of the WB account subscription,
-making it difficult for other teams to use the WB account.
-Therefore DIME Analytics ended up
-creating its own account (https://github.com/dime-worldbank).
+### WB Account: Repo creation
 
-Today, most DIME repos has been moved to the DIME account,
-and it should be the default location for all new repos.
-Private repos should be created on the DIME account.
-It is the least amount of work for everyone involved if public repos
-are also created on the DIME account,
-but if the team has a preference to create them on the WB account,
-then that is a possibility.
-The repos created on the WB account in the past that are still on that account,
-are public repos for which the URL had already been widely published.
-For example, repos with open source tools or reproducibility packages.
+* [Repo creation instructions](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-create-repo.md). (_DIME account member access only - see [here](../resources/dime-only-resources.md) if link does not work_)
 
-The one exception when private repos can be created on the WB account
-is if the project is a collaboration with non-DIME WB teams.
-DIME Analytics pays a small fee for each month for each user
-on private repos on the DIME account.
-In cases where there are about as many non-DIME WB users as DIME users,
-then it is more appropriate that the repo
-sits on the WB account using the WB subscription.
+**_Quick notes:_**
+* Most repos should be created on the DIME account, but reach out to DIME Analytics if you think your repo should be hosted on the WB account
+* The request to create a new repo can be sent by anyone in DIME (does not need to be a member of the DIME account or even have a GitHub account)
+* The request to create a new repo needs to be approved by a DIME manager
+
+_See pages with instructions for more details._
