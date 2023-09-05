@@ -8,76 +8,106 @@ Git/GitHub resources see here see
 [here](https://osf.io/e54gy/)
 and/or [here](https://github.com/worldbank/dime-github-trainings).  
 
-## Read first: Which account is your repo hosted on?
-
-**Before submitting any request,
-make sure you know which account your repo is hosted on.**
-
-DIME repos are typically hosted on the DIME account:
+####  Skip to actions for the DIME Account:
+These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank.
-However, a few repos are hosted on the WB account:
+Read more about why we use multiple accounts [here](../resources/why-mutliple-accounts.md).
+
+* Request to become DIME account member
+  * [DIME user](#dime-become-internal-member)
+  * External Collaborator - see DIME Member for exceptions
+* Give user access to repo
+  * [DIME account member](#dime-request-external-access)
+  * [External collaborator](#dime-request-external-access)
+* Repo creation
+  * [DIME account member - request new repo](#repo-creation)
+
+####  Skip to actions for the WB Account:
+These instructions applies to repos with URLs starting with:
 https://github.com/worldbank.
-Instructions are different depending on which
-account your repo is hosted on.
-The instructions will say which account they are for.
+Read more about why we use multiple accounts [here](../resources/why-mutliple-accounts.md).
 
-If your repo is hosted on the DIME account
-the URL to your repo starts with
-https://github.com/dime-worldbank/ and if it starts with
-https://github.com/worldbank/ it is hosted on the WB account.
-If it starts with something else,
-it is not hosted on an account managed by DIME Analytics.
+* Become member of the account
+  * [WB user](#dime-become-internal-member)
+* Give user access to repo
+  * [WB account member](#dime-become-internal-member)
+  * [External Collaborator](#dime-request-external-access)
+* Repo creation
+  * [DIME member - request new repo](#repo-creation)
 
-## Skip to section
+#### Why add DIME users as members first?
 
-Make sure you first know if your repo is hosted on the DIME or WB account (see above).
+Users with an active contract with DIME ("_DIME users_")
+should be added as members of
+the https://github.com/dime-worldbank account ("_DIME account members_").
+Adding DIME users as account members has these advantages:
 
-* DIME Account
-  * Request to become DIME account member
-    * [DIME user](#dime-become-internal-member)
-    * External Collaborator - see DIME Member for exceptions
-  * Give user access to repo
-    * [DIME account member](#dime-request-external-access)
-    * [External collaborator](#dime-request-external-access)
-  * [Repo creation](#repo-creation)
-* WB Account:
-  * Become member of the account
-    * [WB Member](#dime-become-internal-member)
-  * Give user access to repo
-    * [WB account member](#dime-become-internal-member)
-    * [External Collaborator](#dime-request-external-access)
-  * [WB Account - Access for internal user](#wb-become-internal-member)
-  * [WB Account - Access for external user](#wb-request-external-access)
-*
+* Project teams can give and revoke access to their repos when DIME users join or leave the team without having to involve DIME Analytics
+* Collaboration across teams is easier as other DIME users can
+quickly be given access to repos without having to involve DIME Analytics
+* This provides a way to manage access to content
+on the DIME account to DIME members only.
 
-## Resources with restricted access
+## Resources DIME Account member access only
 
 Many resources and instructions linked to here are only available
 with people already added as members to the DIME Account.
 This applies to links that are followed by:
-"_page only open to DIME account members_".
-
+"_DIME account member access only_".
 If you are a member of the DIME account but
-still get a 404 error when clicking a resticted access link,
-then make sure that you are logged in to GitHub.com
-in the browser you are using.
+still get a 404 error when clicking a restricted access link,
+then please follow these steps:
+
+1. Make sure that you are logged in to GitHub.com in that browser.
 If it says "_Sign up_"/"_Sign in_" at the top of the page,
-then you are not logged in to any account in that browser.
-
-If you are still getting an error,
-make sure you are not logged in using a different account
-than the account you used when you requested
-to become a member of the DIME account.
-
-If you still think something is wrong,
+then you are not logged in to any account in that browser
+1.  Make sure you are logged in using the same account you used
+when you requested to become a member of the DIME account
+1. If you still think something is wrong,
 send an email to DIME Analytics with
 your GitHub username and a link to the page
 that gives the 404 error.
 
-## Repo access
+## DIME Account
 
-Read general access info and then
-scroll down for links to specific instructions.
+These instructions applies to repos with URLs starting with:
+https://github.com/dime-worldbank
+
+#### DIME Account: Request membership
+
+* **DIME users:** [Instructions and details](../instructions/dime-become-member.md).
+* **External collaborators:** Typically only added directly to repos (see repo access below). See [instructions for DIME users](../instructions/dime-become-member.md) for a few exceptions.
+
+_Quick notes:_
+* DIME account membership allows the user to be added to GitHub teams - which means that the project teams can manage access without involving DIME Analytics
+* Users with a contract mapped to DIME can be added as DIME account members.
+* Becoming a DIME account member gives you access to many resources hosted on the DIME account, but to get access to project repos the user needs to be added to GitHub teams after becoming a member (see repo access below).
+
+See pages with instructions for more details.
+
+#### DIME Account: Repo access
+
+* **DIME users:** [Add account member to team](LINKLINK). (_DIME account member access only_)
+* **External collaborators:**  [Request access to repo on behalf of external collaborator](LINKLINK). (_DIME account member access only_)
+
+_Quick notes:_
+* Users who already are members of the DIME account (see above how to become a member) are given access to the repo by adding them to the GitHub team used for that repo.
+* The maintainer of the GitHub team can add DIME account members to the team without involving DIME Analytics. (DIME Analytics can help but will reach out to maintainer for approval.)
+* To see who is maintainer of a GitHub team, see the team reports. To see what GitHub team is used for a repo, see the repo reports.
+* External collaborators are not added to the DIME account and can therefore not be added to GitHub teams. Instead, external collaborators are added to individual repos.
+* The request to add external collaborators to a repo should be sent to DIME Analytics by a person at DIME.
+
+See pages with instructions for more details.
+
+#### DIME Account: Repo creation
+
+* [Repo creation instructions](LINKLINK). (_DIME account member access only_)
+
+_Quick notes:_
+* The request to create a new repo can be sent by anyone in DIME (does not need to be a member of the DIME account or even have a GitHub account)
+* The request to create a new repo needs to be approved by a DIME manager
+
+See pages with instructions for more details.
 
 ### Access for internal vs. external collaborators
 
@@ -114,8 +144,7 @@ if you are not sure which account your repo is hosted on.
 
 ### DIME Account - Access instructions links:
 
-These instructions applies to repos with URLs starting with:
-https://github.com/dime-worldbank
+
 
 #### DIME: Become internal member:
 [Request to be added to the DIME account](../instructions/dime-become-member.md) -
