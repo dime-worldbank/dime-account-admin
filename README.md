@@ -30,23 +30,25 @@ it is not hosted on an account managed by DIME Analytics.
 
 ## Skip to section
 
-Make sure you first know if your repo is hosted on the DIME or WB account. See above.
+Make sure you first know if your repo is hosted on the DIME or WB account (see above).
 
 * DIME Account
-  * Request to become member of account
-    * [DIME Member](#dime-become-internal-member)
-    * External Collaborator - see DIME Member for ex
-    * [External Collaborator](#dime-request-external-access)
-  * [Repo access](#repo-access)
+  * Request to become DIME account member
+    * [DIME user](#dime-become-internal-member)
+    * External Collaborator - see DIME Member for exceptions
+  * Give user access to repo
+    * [DIME account member](#dime-request-external-access)
+    * [External collaborator](#dime-request-external-access)
+  * [Repo creation](#repo-creation)
 * WB Account:
   * Become member of the account
     * [WB Member](#dime-become-internal-member)
   * Give user access to repo
-    * [DIME Member](#dime-become-internal-member)
+    * [WB account member](#dime-become-internal-member)
     * [External Collaborator](#dime-request-external-access)
   * [WB Account - Access for internal user](#wb-become-internal-member)
   * [WB Account - Access for external user](#wb-request-external-access)
-* [Repo creation](#repo-creation)
+*
 
 ## Resources with restricted access
 
