@@ -51,7 +51,7 @@ ask your team to request access as an external collaborator using
 Complete the **World Bank GitHub.com terms and conditions** below by
 copying it to an email and filling in your information in the end of the terms and conditions.
 Send this email to `dimeanalytics@worldbank.org` with the subject line
-"Request to Join DIME GitHub Group - [YOUR NAME]".
+"Request to join DIME GitHub Account - [YOUR NAME]".
 
 World Bank Group Staff GitHub.com Pilot terms and conditions:
 
