@@ -1,3 +1,24 @@
+## Which account is your repo hosted on?
+
+Before submitting any request,
+make sure you know which account your repo is hosted on.
+
+DIME repos are typically hosted on the DIME account:
+https://github.com/dime-worldbank.
+However, a few repos are hosted on the WB account:
+https://github.com/worldbank.
+Instructions are different depending on which
+account your repo is hosted on.
+The instructions will say which account they are for.
+
+If your repo is hosted on the DIME account
+the URL to your repo starts with
+https://github.com/dime-worldbank/ and if it starts with
+https://github.com/worldbank/ it is hosted on the WB account.
+If it starts with something else,
+it is not hosted on an account managed by DIME Analytics.
+
+
 ## Why does DIME use both the DIME account and the WB account?
 
 Initially there was just the WB account (https://github.com/worldbank).
