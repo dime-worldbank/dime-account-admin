@@ -8,7 +8,7 @@ Git/GitHub resources see here see
 [here](https://osf.io/e54gy/)
 and/or [here](https://github.com/worldbank/dime-github-trainings).  
 
-### Skip to actions for the DIME Account:
+### Actions for the DIME Account:
 These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank.
 Read more about why we use multiple accounts [here](./resources/why-multiple-accounts.md).
@@ -22,7 +22,7 @@ Read more about why we use multiple accounts [here](./resources/why-multiple-acc
 * **Repo creation on the DIME account**
   * [DIME account member - request new repo](#dime-account-repo-creation)
 
-###  Skip to actions for the WB Account:
+###  Actions for the WB Account:
 These instructions applies to repos with URLs starting with:
 https://github.com/worldbank.
 Read more about why we use multiple accounts [here](./resources/why-multiple-accounts.md).
