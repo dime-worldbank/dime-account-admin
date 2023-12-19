@@ -16,10 +16,9 @@ This request is primarily for someone with an active
 [World Bank](https://www.worldbank.org) contract who is mapped to
 one of the [DIME](https://www.worldbank.org/en/research/dime) units.
 
-Exceptions can be made for people who:
+Exceptions can be made for people who have an active WB contract if:
 1. report to a DIME supervisor
 1. work extensively on a DIME project that as a repo on the DIME GitHub account
-1. have an active World Bank contract and an active World Bank email
 
 If this does not apply to you, then ask your DIME contact to
 request access as an external collaborator using
@@ -41,7 +40,10 @@ use [these instructions and best practices](https://github.com/worldbank/dime-gi
 
 #### 2. Send email to the DIME GitHub account admins
 
-You must submit this terms and conditions from your World Bank email.
+**You must submit this terms and conditions from your World Bank email.**
+It is ok if your GitHub account is associated with a private email,
+but to be added as a member of the DIME account
+you must have an active WB email.
 If you are still in the process of setting up your World Bank email,
 then you can not yet request access to the DIME Account.
 If you need access to one or several individual repositories in the meanwhile,
