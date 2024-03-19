@@ -35,6 +35,11 @@ Read more about why we use multiple accounts [here](./resources/why-multiple-acc
 * **Repo creation on the WB account**
   * [DIME member - request new repo](#wb-account-repo-creation)
 
+### General GitHub Actions:
+
+* **Change name of a GitHub repository**
+  * [Request repository name change](./instructions/request-name-change.md)
+
 ### Other accounts
 
 DIME Analytics can provide general advice for
