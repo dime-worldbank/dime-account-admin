@@ -10,6 +10,16 @@ to help you with this.
 GitHub has implemented a lot of support to make name changes as seamless as possible,
 but below are still a few things good to consider before changing the name.
 
+### Use a best practice for a new name
+
+Select a repo name that is descriptive, but will be simple to type in a URL. Here are some guidelines on what is simple to type as a URL.
+
+* No spaces. Spaces are not allowed in URLs. For that reason spaces are not even allowed in repo names on GitHub. Instead, use hyphens: `-`
+* No underscores: `_`. URLs are often formatted as blue underlined text, and underscores do not blend well with underlined text. It usually looks messy. Instead, use hyphens `-`.
+* No upper-case letters. In some uses, URLs _are_ case-sensitive, but in others they _are not_. This can cause confusion or failure to connect. The best way to avoid this is to use only lower-case. That also looks better, as the other parts of your repo URL (`https`, `github.com` and `dime-worldbank`) will all be lower-case.
+* Use only lower-case letters (a-z) and numbers (0-9), and do not start with a number. Do not use any special characters (like `&`, `!`, `()`, etc). They might make your URL error-prone. The one exception to this rule is the hyphen character `-`. It is a URL-safe character and it is good for splitting the repo names into words without using a space.
+* Avoid long repo names as it will make the URL too long. If someone at some point needs to enter the URL manually it will be cumbersome and error prone. And a long URL might not display well when you include it in a text or on the front page of a publication, etc.
+
 ### Redirect of old URLs
 
 GitHub will re-direct most old URLs to the new URLs, but not all.
@@ -51,16 +61,6 @@ as the name of the folder that contains the clone.
 This is to not break any existing file paths.
 Git won't complain if you manually change the name of this folder,
 but make sure that you fix any links that become broken after changing the name of the folder.
-
-### Use a best practice for a new name
-
-Select a repo name that is descriptive, but will be simple to type in a URL. Here are some guidelines on what is simple to type as a URL.
-
-* No spaces. Spaces are not allowed in URLs. For that reason spaces are not even allowed in repo names on GitHub. Instead, use hyphens: `-`
-* No underscores: `_`. URLs are often formatted as blue underlined text, and underscores do not blend well with underlined text. It usually looks messy. Instead, use hyphens `-`.
-* No upper-case letters. In some uses, URLs _are_ case-sensitive, but in others they _are not_. This can cause confusion or failure to connect. The best way to avoid this is to use only lower-case. That also looks better, as the other parts of your repo URL (`https`, `github.com` and `dime-worldbank`) will all be lower-case.
-* Use only lower-case letters (a-z) and numbers (0-9), and do not start with a number. Do not use any special characters (like `&`, `!`, `()`, etc). They might make your URL error-prone. The one exception to this rule is the hyphen character `-`. It is a URL-safe character and it is good for splitting the repo names into words without using a space.
-* Avoid long repo names as it will make the URL too long. If someone at some point needs to enter the URL manually it will be cumbersome and error prone. And a long URL might not display well when you include it in a text or on the front page of a publication, etc.
 
 ## How to request name change from DIME Analytics
 
