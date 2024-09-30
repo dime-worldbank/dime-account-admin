@@ -68,13 +68,15 @@ https://github.com/dime-worldbank.
 
 ### DIME Account: Request membership
 
-* **DIME users:** [Instructions and details](./instructions/dime-become-member.md).
-* **External collaborators:** Typically only added directly to repos (see repo access below). See [instructions for DIME users](./instructions/dime-become-member.md) for a few exceptions.
+* **DIME users:** [eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (_WB intranet access only - if you do not have access to the eServices portal someone else can make the request on your behalf_)
+* **WB non-DIME users:** If you have an active WB contract and work on a portfolio of DIME projects you may still be added as a member. Discuss with your DIME contact and then submit the request for DIME users and list the DIME contact in the request when asked to.
+* **External users**: External users are only given access on per repo basis. See repo access section below.
 
 **_Quick notes:_**
-* DIME account membership allows the user to be added to GitHub teams - which means that the project teams can manage access without involving DIME Analytics
-* Users with a contract mapped to DIME can be added as DIME account members.
-* Becoming a DIME account member gives you access to many resources hosted on the DIME account, but to get access to project repos the user needs to be added to GitHub teams after becoming a member (see repo access below).
+* You must have a YubiKey or a WB computer to be able to access the WB account as a member. WB users without this can still be added as external users.
+* Joining the WB account do not by itself give access to any repo hosted there
+
+_See pages with instructions for more details._
 
 _See pages with instructions for more details._
 
@@ -112,9 +114,11 @@ https://github.com/worldbank.
 
 ### WB Account: Request membership
 
-* **WB users:** [eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (_WB intranet access only_)
+* **WB users:** [eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (_WB intranet access only - if you do not have access to the eServices portal someone else can make the request on your behalf_)
+* **External users**: External users are only given access on per repo basis. See repo access section below.
 
 **_Quick notes:_**
+* You must have a YubiKey or a WB computer to be able to access the WB account as a member. WB users without this can still be added as external users.
 * Anyone with an active WB contract and a GitHub account can use the eServices request to join the WB account
 * Joining the WB account do not by itself give access to any repo hosted there
 

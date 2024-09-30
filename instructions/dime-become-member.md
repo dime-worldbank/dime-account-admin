@@ -1,4 +1,8 @@
-# Request to become member of the DIME account
+# These request are not used anymore but kept for archive and to not break any existing links.
+
+Go to https://github.com/dime-worldbank/dime-account-admin to find the up to date instructions.
+
+## Request to become member of the DIME account
 
 **These instructions are for the DIME Account.
 Your repo is hosted on this account if your repo URL starts with:**
