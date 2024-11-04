@@ -78,8 +78,6 @@ https://github.com/dime-worldbank.
 
 _See pages with instructions for more details._
 
-_See pages with instructions for more details._
-
 ### DIME Account: Repo access
 
 * **DIME account members:** [Add DIME account member to team](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-repo-access-member.md). (_DIME account member access only - see [here](./resources/dime-only-resources.md) if link does not work_)
@@ -92,6 +90,7 @@ _See pages with instructions for more details._
 see the [team reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/team-reports).
 To see what GitHub team is used for a repo,
 see the [repo reports](https://github.com/dime-worldbank/dime-account-admin-private/tree/main/reports/repo-reports).
+(_DIME account member access only - see [here](./resources/dime-only-resources.md) if link does not work_)
 * External collaborators are not added to the DIME account and can therefore not be added to GitHub teams. Instead, external collaborators are added to individual repos.
 * The request to add external collaborators to a repo should be sent to DIME Analytics by a person at DIME.
 
