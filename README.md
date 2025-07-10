@@ -1,5 +1,7 @@
 # DIME GitHub Account Guidelines
 
+(_Scroll down for WB GitHub account guidelines_)
+
 #### Git/GitHub trainings resources
 
 This repo includes instructions related to DIME's GitHub account.
