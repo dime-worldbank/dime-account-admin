@@ -1,6 +1,4 @@
-# DIME GitHub Account Guidelines
-
-(_Scroll down for WB GitHub account guidelines_)
+# DIME/WB GitHub Account Guidelines
 
 ### Git/GitHub trainings resources
 
@@ -10,9 +8,11 @@ Git/GitHub resources see here see
 [here](https://osf.io/e54gy/)
 and/or [here](https://github.com/worldbank/dime-github-trainings).  
 
-## Actions for the DIME Account:
-These instructions applies to repos with URLs starting with:
-https://github.com/dime-worldbank.
+## Request for the DIME and WB Account:
+
+These requests may differ depending on which account your repo is/will be hosted on. So first, make sure you know which account your repo is or should be hosted on. Repos with URLs starting with:
+https://github.com/dime-worldbank is hosted on the DIME account and repos with URLs starting with:
+https://github.com/worldbank is hosted on the WB account.
 Read more about why we use multiple accounts [here](./resources/why-multiple-accounts.md).
 
 
@@ -39,24 +39,16 @@ Adding a users as account members has these advantages:
 * Project teams can give and revoke access to their repos when people join or leave the team without having to involve DIME Analytics
 * Collaboration across teams is easier as other users can
 quickly be given access to repos without having to involve DIME Analytics
-* This provides a way to manage access to content on the DIME account to DIME members only. (DIME Account only)    |
+* This provides a way to manage access to content on the DIME account to DIME members only. (DIME Account only)
 
 ## General GitHub Actions:
 
 * **Change name of a GitHub repository**
   * [Request repository name change](./instructions/request-name-change.md)
 
-### Other accounts
+For any other request, send an email to DIME Analytics with your question.
 
-DIME Analytics can provide general advice for
-DIME repos hosted on other accounts.
-For example accounts owned by external collaborators the project work with.
-But since DIME Analytics do not have admin rights on those repos,
-there are no specific guidelines for such repos.
-
-
-
-## DIME Account
+## DIME Account request
 
 These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank.
@@ -69,7 +61,7 @@ https://github.com/dime-worldbank.
 
 **_Quick notes:_**
 * You must have a YubiKey or a WB computer to be able to access the WB account as a member. WB users without this can still be added as external users.
-* Joining the WB account do not by itself give access to any repo hosted there
+* Joining the DIME account do not by itself give access to any repo hosted there. See repo access below.
 
 _See pages with instructions for more details._
 
@@ -101,7 +93,7 @@ _See pages with instructions for more details._
 
 _See pages with instructions for more details._
 
-## WB Account
+## WB Account request
 
 These instructions applies to repos with URLs starting with:
 https://github.com/worldbank.
