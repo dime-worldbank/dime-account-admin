@@ -8,7 +8,7 @@ Git/GitHub resources see here see
 [here](https://osf.io/e54gy/)
 and/or [here](https://github.com/worldbank/dime-github-trainings).  
 
-## Request for the DIME and WB Account:
+## Requests for the DIME and WB Accounts:
 
 These requests may differ depending on which account your repo is/will be hosted on. So first, make sure you know which account your repo is or should be hosted on. Repos with URLs starting with:
 https://github.com/dime-worldbank is hosted on the DIME account and repos with URLs starting with:
@@ -48,7 +48,7 @@ quickly be given access to repos without having to involve DIME Analytics
 
 For any other request, send an email to DIME Analytics with your question.
 
-## DIME Account request
+## DIME Account requests
 
 These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank.
@@ -93,7 +93,7 @@ _See pages with instructions for more details._
 
 _See pages with instructions for more details._
 
-## WB Account request
+## WB Account requests
 
 These instructions applies to repos with URLs starting with:
 https://github.com/worldbank.
