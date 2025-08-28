@@ -2,14 +2,11 @@
 
 ### Git/GitHub Training Resources
 
-This page includes instructions related to DIME's GitHub account.  
-For Git/GitHub training and other DIME Analytics resources, see  
-[here](https://osf.io/e54gy/) and/or [here](https://github.com/worldbank/dime-github-trainings).
+This page includes instructions related to DIME's GitHub account. For Git/GitHub training and other DIME Analytics resources, see [here](https://osf.io/e54gy/) and/or [here](https://github.com/worldbank/dime-github-trainings).
 
 ## Requests for the DIME and WB Accounts
 
-Requests may differ depending on which account your repository is or will be hosted on.  
-First, confirm which account your repository is or should be hosted on:
+Requests may differ depending on which account your repository is or will be hosted on. First, confirm which account your repository is or should be hosted on:
 
 - Repositories with URLs starting with `https://github.com/dime-worldbank` are hosted on the DIME account.
 - Repositories with URLs starting with `https://github.com/worldbank` are hosted on the WB account.
@@ -43,8 +40,7 @@ Read more about why we use multiple accounts [here](./resources/why-multiple-acc
 
 ## General GitHub Actions
 
-- **Change name of a GitHub repository:**  
-  [Request repository name change](./instructions/request-name-change.md)
+- **Change name of a GitHub repository:** [Request repository name change](./instructions/request-name-change.md)
 
 For any other request, send an email to DIME Analytics with your question.
 
