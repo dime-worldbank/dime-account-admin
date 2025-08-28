@@ -16,7 +16,7 @@ https://github.com/worldbank is hosted on the WB account.
 Read more about why we use multiple accounts [here](./resources/why-multiple-accounts.md).
 
 
-| Action | DIME Account | WB Account|
+| Request | DIME Account | WB Account|
 |---|---|----|
 | Add new internal user as member | [New Member DIME account](#dime-account-request-membership) | [New Member WB account](#wb-account-request-membership) |
 | Give user access to repo | [DIME Account Repo](#dime-account-repo-access)<br>(Both internal member and external collaborator) | [WB Account Repo](#wb-account-repo-access)<br>(Both internal member and external collaborator) |
@@ -136,3 +136,4 @@ _See pages with instructions for more details._
 * The request to create a new repo needs to be approved by a DIME manager
 
 _See pages with instructions for more details._
+
