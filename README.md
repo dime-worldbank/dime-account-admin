@@ -16,13 +16,11 @@ https://github.com/dime-worldbank.
 Read more about why we use multiple accounts [here](./resources/why-multiple-accounts.md).
 
 
-
-
 | Action | DIME Account | WB Account|
 |---|---|----|
-| Add new internal user as member | [New member DIME account](#dime-account-request-membership) | [New member WB account](#wb-account-request-membership) |
-| Give user access to repo | [DIME Account repo](#dime-account-repo-access)<br>(Both internal member and external collaborator) | [WB account member](#wb-account-repo-access)<br>(Both internal member and external collaborator) |
-| Repo creation on the account| [Request new DIME account repo](#dime-account-repo-creation)| [Request new WB account repo](#wb-account-repo-creation)                                                  |
+| Add new internal user as member | [New Member DIME account](#dime-account-request-membership) | [New Member WB account](#wb-account-request-membership) |
+| Give user access to repo | [DIME Account Repo](#dime-account-repo-access)<br>(Both internal member and external collaborator) | [WB Account Repo](#wb-account-repo-access)<br>(Both internal member and external collaborator) |
+| Repo creation on the account| [Request New DIME Account Repo](#dime-account-repo-creation)| [Request New WB Account Repo](#wb-account-repo-creation)                                                  |
 
 ## General GitHub Actions:
 
