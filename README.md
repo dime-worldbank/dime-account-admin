@@ -2,7 +2,7 @@
 
 (_Scroll down for WB GitHub account guidelines_)
 
-#### Git/GitHub trainings resources
+### Git/GitHub trainings resources
 
 This repo includes instructions related to DIME's GitHub account.
 For Git/GitHub trainings and DIME Analytics other
@@ -10,34 +10,21 @@ Git/GitHub resources see here see
 [here](https://osf.io/e54gy/)
 and/or [here](https://github.com/worldbank/dime-github-trainings).  
 
-### Actions for the DIME Account:
+## Actions for the DIME Account:
 These instructions applies to repos with URLs starting with:
 https://github.com/dime-worldbank.
 Read more about why we use multiple accounts [here](./resources/why-multiple-accounts.md).
 
-* **Request to become DIME account member**
-  * [DIME user](#dime-account-request-membership)
-  * External Collaborator - see DIME Member for exceptions
-* **Give user access to DIME account repo**
-  * [DIME account member](#dime-account-repo-access)
-  * [External collaborator](#dime-account-repo-access)
-* **Repo creation on the DIME account**
-  * [DIME account member - request new repo](#dime-account-repo-creation)
 
-###  Actions for the WB Account:
-These instructions applies to repos with URLs starting with:
-https://github.com/worldbank.
-Read more about why we use multiple accounts [here](./resources/why-multiple-accounts.md).
 
-* **Request to become WB account member**
-  * [WB user](#wb-account-request-membership)
-* **Give user access to WB account repo**
-  * [WB account member](#wb-account-repo-access)
-  * [External Collaborator](#wb-account-repo-access)
-* **Repo creation on the WB account**
-  * [DIME member - request new repo](#wb-account-repo-creation)
 
-### General GitHub Actions:
+| Action | DIME Account | WB Account|
+|---|---|----|
+| Add new internal user as member | [New member DIME account](#dime-account-request-membership) | [New member WB account](#wb-account-request-membership) |
+| Give user access to repo | [DIME Account repo](#dime-account-repo-access)<br>(Both internal member and external collaborator) | [WB account member](#wb-account-repo-access)<br>(Both internal member and external collaborator) |
+| Repo creation on the account| [Request new DIME account repo](#dime-account-repo-creation)| [Request new WB account repo](#wb-account-repo-creation)                                                  |
+
+## General GitHub Actions:
 
 * **Change name of a GitHub repository**
   * [Request repository name change](./instructions/request-name-change.md)
