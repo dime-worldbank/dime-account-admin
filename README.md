@@ -20,7 +20,26 @@ Read more about why we use multiple accounts [here](./resources/why-multiple-acc
 |---|---|----|
 | Add new internal user as member | [New Member DIME account](#dime-account-request-membership) | [New Member WB account](#wb-account-request-membership) |
 | Give user access to repo | [DIME Account Repo](#dime-account-repo-access)<br>(Both internal member and external collaborator) | [WB Account Repo](#wb-account-repo-access)<br>(Both internal member and external collaborator) |
-| Repo creation on the account| [Request New DIME Account Repo](#dime-account-repo-creation)| [Request New WB Account Repo](#wb-account-repo-creation)                                                  |
+| Repo creation on the account| [Request New DIME Account Repo](#dime-account-repo-creation)| [Request New WB Account Repo](#wb-account-repo-creation)                                        
+
+### Why add users as members first?
+
+Who can become a member?
+
+* Users with an active WB account may be added as members to either the DIME or the WB account. Users without an active WB email must be added as external collaborators directly to individual repositories.
+
+Who should be added to which account as member?
+
+* Any user with an active WB account should be added as a member of the WB account if they work on WB account hosted repos.
+* Users with active WB accounts mapped to either DIME unit, should be added as a member of the DIME account if they work on DIME account hosted repos.
+* Users with active WB accounts _not_ mapped to a DIME unit, may still be added to the DIME account. This makes sense if the user works across a portfolio of DIME account hosted repos. 
+
+Adding a users as account members has these advantages:
+
+* Project teams can give and revoke access to their repos when people join or leave the team without having to involve DIME Analytics
+* Collaboration across teams is easier as other users can
+quickly be given access to repos without having to involve DIME Analytics
+* This provides a way to manage access to content on the DIME account to DIME members only. (DIME Account only)    |
 
 ## General GitHub Actions:
 
@@ -35,18 +54,7 @@ For example accounts owned by external collaborators the project work with.
 But since DIME Analytics do not have admin rights on those repos,
 there are no specific guidelines for such repos.
 
-### Why add DIME users as members first?
 
-Users with an active contract with DIME ("_DIME users_")
-should be added as members of
-the https://github.com/dime-worldbank account ("_DIME account members_").
-Adding DIME users as account members has these advantages:
-
-* Project teams can give and revoke access to their repos when DIME users join or leave the team without having to involve DIME Analytics
-* Collaboration across teams is easier as other DIME users can
-quickly be given access to repos without having to involve DIME Analytics
-* This provides a way to manage access to content
-on the DIME account to DIME members only.
 
 ## DIME Account
 
