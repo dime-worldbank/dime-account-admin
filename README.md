@@ -46,8 +46,7 @@ For any other request, send an email to DIME Analytics with your question.
 
 # DIME Account Requests
 
-These instructions apply to repositories with URLs starting with:  
-`https://github.com/dime-worldbank`
+These instructions apply to repositories with URLs starting with: `https://github.com/dime-worldbank`
 
 ## DIME Account: Request Membership
 
@@ -91,8 +90,7 @@ _See pages with instructions for more details._
 
 # WB Account Requests
 
-These instructions apply to repositories with URLs starting with:  
-`https://github.com/worldbank`
+These instructions apply to repositories with URLs starting with: `https://github.com/worldbank`
 
 ## WB Account: Request Membership
 
