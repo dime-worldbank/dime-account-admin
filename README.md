@@ -38,18 +38,18 @@ Read more about why we use multiple accounts [here](./resources/why-multiple-acc
 - Collaboration across teams is easier, as users can quickly be given access to repositories without involving DIME Analytics.
 - This provides a way to manage access to content on the DIME account for DIME members only (DIME Account only).
 
-## General GitHub Actions
+## Other GitHub Account Requests
 
 - **Change name of a GitHub repository:** [Request repository name change](./instructions/request-name-change.md)
 
 For any other request, send an email to DIME Analytics with your question.
 
-## DIME Account Requests
+# DIME Account Requests
 
 These instructions apply to repositories with URLs starting with:  
 `https://github.com/dime-worldbank`
 
-### DIME Account: Request Membership
+## DIME Account: Request Membership
 
 - **DIME users:** [eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (_WB intranet access only. If you do not have access to the eServices portal, someone else can make the request on your behalf._)
 - **WB non-DIME users:** If you have an active WB contract and work on a portfolio of DIME projects, you may still be added as a member. Discuss with your DIME contact and then submit the request for DIME users, listing the DIME contact in the request when asked.
@@ -62,7 +62,7 @@ These instructions apply to repositories with URLs starting with:
 
 _See pages with instructions for more details._
 
-### DIME Account: Repo Access
+## DIME Account: Repo Access
 
 - **DIME account members:** [Add DIME account member to team](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-repo-access-member.md). (_DIME account member access only. See [here](./resources/dime-only-resources.md) if the link does not work._)
 - **External collaborators:** [Request access to repo on behalf of external collaborator](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-repo-access-external.md). (_DIME account member access only. See [here](./resources/dime-only-resources.md) if the link does not work._)
@@ -78,7 +78,7 @@ _See pages with instructions for more details._
 
 _See pages with instructions for more details._
 
-### DIME Account: Repo Creation
+## DIME Account: Repo Creation
 
 - [Repo creation instructions](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/dime-create-repo.md). (_DIME account member access only. See [here](./resources/dime-only-resources.md) if the link does not work._)
 
@@ -89,12 +89,12 @@ _See pages with instructions for more details._
 
 _See pages with instructions for more details._
 
-## WB Account Requests
+# WB Account Requests
 
 These instructions apply to repositories with URLs starting with:  
 `https://github.com/worldbank`
 
-### WB Account: Request Membership
+## WB Account: Request Membership
 
 - **WB users:** [eServices request](https://worldbankgroup.service-now.com/wbg?id=wbg_sc_catalog&sys_id=910e1739db1a54903c5960ab13961912) (_WB intranet access only. If you do not have access to the eServices portal, someone else can make the request on your behalf._)
 - **External users:** External users are only given access on a per-repository basis. See the repo access section below.
@@ -107,7 +107,7 @@ These instructions apply to repositories with URLs starting with:
 
 _See pages with instructions for more details._
 
-### WB Account: Repo Access
+## WB Account: Repo Access
 
 - **WB account members:** [Add WB account member to team](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-repo-access-member.md). (_DIME account member access only. See [here](./resources/dime-only-resources.md) if the link does not work._)
 - **External collaborators:** [Request access to repo on behalf of external collaborator](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-repo-access-external.md). (_DIME account member access only. See [here](./resources/dime-only-resources.md) if the link does not work._)
@@ -123,7 +123,7 @@ _See pages with instructions for more details._
 
 _See pages with instructions for more details._
 
-### WB Account: Repo Creation
+## WB Account: Repo Creation
 
 - [Repo creation instructions](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/wb-create-repo.md). (_DIME account member access only. See [here](./resources/dime-only-resources.md) if the link does not work._)
 
