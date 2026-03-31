@@ -41,6 +41,8 @@ Read more about why we use multiple accounts [here](./resources/why-multiple-acc
 ## Other GitHub Account Requests
 
 - **Change name of a GitHub repository:** [Request repository name change](./instructions/request-name-change.md)
+- **Connect GitHub repository to Databricks:** [Request access to repository from Databricks](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/databricks.md) (_DIME account member access only. See [here](./resources/dime-only-resources.md) if the link does not work._)
+- **Request GitHub Copilot License:** [Request GitHub Copilot license](https://github.com/dime-worldbank/dime-account-admin-private/blob/main/instructions/github-copilot-license.md) (_DIME account member access only. See [here](./resources/dime-only-resources.md) if the link does not work._)  
 
 For any other request, send an email to DIME Analytics with your question.
 
